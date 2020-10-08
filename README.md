@@ -8,4 +8,6 @@ Hi, I'm Dan. By day I am a curriculum developer for Tech Elevator. By night I am
 - Instagram: https://www.instagram.com/thedanvega
 - LinkedIn: https://www.linkedin.com/in/danvega
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
