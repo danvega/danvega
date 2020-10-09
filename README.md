@@ -13,6 +13,7 @@ Hi, my name is Dan Vega. By day I am a curriculum developer for Tech Elevator. B
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Interactive Learning from Oreilly](https://www.danvega.dev/blog/2020/07/30/oreilly-interactive-learning)
 - [Working with Standard Input and Output in Deno](https://www.danvega.dev/blog/2020/06/03/deno-stdin-stdout)
 - [Hello, Deno](https://www.danvega.dev/blog/2020/05/29/hello-deno)
@@ -22,5 +23,5 @@ Hi, my name is Dan Vega. By day I am a curriculum developer for Tech Elevator. B
 
 ### Latest YouTube Videos
 
-<!-- YOUTUBE-LIST:START -->
-<!-- YOUTUBE-LIST:END -->
+<!-- YOUTUBE::START -->
+<!-- YOUTUBE::END -->
