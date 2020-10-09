@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-Hi, my name is Dan Vega. By day I am a curriculum developer for Tech Elevator. By night I am a content creator who loves to learn new things and teach them to others.
+I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) and maker of things from Cleveland Ohio. I have a real passion for teaching and I hope that one of my blog posts, videos or courses helps you solve a problem or learn something new.
 
-### Connect with me:
+### 🤝 Connect with me:
 
 - Website: https://www.danvega.dev
 - Twitter: https://twitter.com/therealdanvega
 - YouTube: http://www.youtube.com/danvega
-- Instagram: https://www.instagram.com/thedanvega
 - LinkedIn: https://www.linkedin.com/in/danvega
 
-### Latest Blog posts
+### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -21,7 +20,7 @@ Hi, my name is Dan Vega. By day I am a curriculum developer for Tech Elevator. B
 - [Vue 3 Composition API: Ref vs Reactive](https://www.danvega.dev/blog/2020/02/12/vue3-ref-vs-reactive)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest YouTube Videos
+### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
