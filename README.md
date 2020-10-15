@@ -2,6 +2,8 @@
 
 I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) and maker of things from Cleveland Ohio. I have a real passion for teaching and I hope that one of my blog posts, videos or courses helps you solve a problem or learn something new.
 
+![Profile Header](./github_profile_header.png)
+
 ### 🤝 Connect with me:
 
 - Website: https://www.danvega.dev
