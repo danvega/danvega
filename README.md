@@ -24,9 +24,9 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vue.js for Beginners: A beginner's guide to learn the basics of the JavaScript Framework Vue.js](https://www.youtube.com/watch?v=nugg5Zst1Nc)
 - [Spring Boot @DataJdbcTest Annotation: Learn how to test your Data JDBC Components](https://www.youtube.com/watch?v=1IgvKFSWXcE)
 - [Spring Boot Database Tutorial: Connecting with a unique datasource name](https://www.youtube.com/watch?v=JZ-Mpe1A0B0)
 - [Spring JDBC Template Tutorial: Learn to build a full CRUD application in Spring Boot](https://www.youtube.com/watch?v=0uLqdBpYAVA)
 - [Learn Spring Boot & Maven through O'Reilly Interactive Learning](https://www.youtube.com/watch?v=YxgET35eDr4)
-- [Learn Vue 3: Getting started with Vue 3 for beginners using CodePen](https://www.youtube.com/watch?v=YdC0tzbyuVc)
 <!-- YOUTUBE:END -->
