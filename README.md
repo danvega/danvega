@@ -14,11 +14,11 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Year, New Opportunities and Goals](https://www.danvega.dev/blog/2021/01/07/new-year-new-me)
 - [How to test standard in and out in Java](https://www.danvega.dev/blog/2020/12/16/testing-standard-in-out-java)
 - [Interactive Learning from Oreilly](https://www.danvega.dev/blog/2020/07/30/oreilly-interactive-learning)
 - [Working with Standard Input and Output in Deno](https://www.danvega.dev/blog/2020/06/03/deno-stdin-stdout)
 - [Hello, Deno](https://www.danvega.dev/blog/2020/05/29/hello-deno)
-- [Lessons learned from redesigning my website](https://www.danvega.dev/blog/2020/05/16/website-redesign-lessons-learned)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
