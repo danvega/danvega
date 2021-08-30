@@ -14,11 +14,11 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring One 2021 Presentation](https://www.danvega.dev/blog/2021/08/30/spring-one-2021)
 - [Full Stack Java development with Spring Boot and VueJS](https://www.danvega.dev/blog/2021/01/22/full-stack-java-vue)
 - [How to force a delay in a web app](https://www.danvega.dev/blog/2021/01/08/network-throttling)
 - [New Year, New Opportunities and Goals](https://www.danvega.dev/blog/2021/01/07/new-year-new-me)
 - [How to test standard in and out in Java](https://www.danvega.dev/blog/2020/12/16/testing-standard-in-out-java)
-- [Interactive Learning from Oreilly](https://www.danvega.dev/blog/2020/07/30/oreilly-interactive-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
