@@ -24,9 +24,9 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create sample data for your Java application](https://www.youtube.com/watch?v=UzBOv_SHUng)
 - [Building REST APIs with Spring Boot (live stream replay)](https://www.youtube.com/watch?v=ItXWciOE7OI)
 - [Building REST APIs with Spring Boot (live stream replay)](https://www.youtube.com/watch?v=FRUpZ-oP3HI)
 - [How to create your first Spring Application (without Spring Boot)](https://www.youtube.com/watch?v=e8aSyQo0nHo)
 - [Spring Boot and Vue JS: Full Stack Java Development](https://www.youtube.com/watch?v=2G6r2f40Lps)
-- [Java Streams Tutorial | Learn how to filter a list in Java using streams in 2020](https://www.youtube.com/watch?v=RDh2PjU1WDY)
 <!-- YOUTUBE:END -->
