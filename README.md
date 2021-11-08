@@ -27,6 +27,6 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 - [Github Copilot tutorial for Java Developers](https://www.youtube.com/watch?v=97C3fQqzj-I)
 - [Java is now FREE for everyone #shorts](https://www.youtube.com/watch?v=ZddzOO_ovz8)
 - [How to create sample data for your Java application](https://www.youtube.com/watch?v=UzBOv_SHUng)
-- [Building REST APIs with Spring Boot (live stream replay)](https://www.youtube.com/watch?v=ItXWciOE7OI)
-- [Building REST APIs with Spring Boot (live stream replay)](https://www.youtube.com/watch?v=FRUpZ-oP3HI)
+- [Building REST APIs with Spring Boot &lpar;live stream replay&rpar;](https://www.youtube.com/watch?v=ItXWciOE7OI)
+- [Building REST APIs with Spring Boot &lpar;live stream replay&rpar;](https://www.youtube.com/watch?v=FRUpZ-oP3HI)
 <!-- YOUTUBE:END -->
