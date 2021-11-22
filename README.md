@@ -24,9 +24,9 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Newsletter Creation Process: How I create my newsletter each week in Notion](https://www.youtube.com/watch?v=vvHCJdEJons)
 - [M1 MacBook Pro Review: M1 Max Setup and Review for Software Developers](https://www.youtube.com/watch?v=t-hEOyUnaXQ)
 - [Java 16 Stream to List: How to convert a stream to a list](https://www.youtube.com/watch?v=EObFO5ohikg)
 - [Github Copilot tutorial for Java Developers](https://www.youtube.com/watch?v=97C3fQqzj-I)
 - [Java is now FREE for everyone #shorts](https://www.youtube.com/watch?v=ZddzOO_ovz8)
-- [How to create sample data for your Java application](https://www.youtube.com/watch?v=UzBOv_SHUng)
 <!-- YOUTUBE:END -->
