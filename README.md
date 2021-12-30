@@ -24,7 +24,7 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Nuxt 3 + Tailwind 3 Starter: How to add Tailwind CSS v3 to your Nuxt 3 application](https://www.youtube.com/watch?v=0oE2r51HyF0)
+- [Nuxt 3 + Tailwind CSS 3 Starter: How to add Tailwind CSS v3 to your Nuxt 3 application](https://www.youtube.com/watch?v=0oE2r51HyF0)
 - [Getting Started With Nuxt 3: Why I&#39;m moving my personal website to Nuxt 3](https://www.youtube.com/watch?v=tdOoKKXlDCQ)
 - [Are your Spring Boot Applications Vulnerable to the Log4J2 Exploit?](https://www.youtube.com/watch?v=nGqVYiwu8uo)
 - [Newsletter Creation Process: How I create my newsletter each week in Notion](https://www.youtube.com/watch?v=vvHCJdEJons)
