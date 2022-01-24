@@ -14,11 +14,11 @@ I’m a Husband, Father, [Curriculum Developer](https://www.techelevator.com) an
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Im Joining VMware](https://www.danvega.dev/blog/2022/01/24/undefined)
 - [Happy New Year 2022](https://www.danvega.dev/blog/2022/01/01/happy-new-year-2022)
 - [14&quot; MacBook Pro M1 Max Review for developers and content creators](https://www.danvega.dev/blog/2021/11/15/macbook-pro-m1-max-review)
 - [GitHub Copilot for Java Develpers](https://www.danvega.dev/blog/2021/11/08/github-copilot-java-developers)
 - [Spring One 2021 Presentation](https://www.danvega.dev/blog/2021/08/30/spring-one-2021)
-- [Full Stack Java development with Spring Boot and VueJS](https://www.danvega.dev/blog/2021/01/22/full-stack-java-vue)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
