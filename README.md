@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Records: How to use a Java Record in a Spring Boot Application](https://www.youtube.com/watch?v=3NshiQIy7p4)
 - [Netlify Serverless Functions: How to create a serverless function that talks to the Notion API](https://www.youtube.com/watch?v=A-b1ZdlNbww)
 - [Nuxt 3 + Notion: Learn how to use the Notion API in your Nuxt 3 Applications](https://www.youtube.com/watch?v=JvNhGu5ELgs)
 - [I Have Joined VMware as a Spring Developer Advocate!](https://www.youtube.com/watch?v=TYXdX-EakG8)
 - [Nuxt 3 - Nuxt Nitro Server Engine](https://www.youtube.com/watch?v=FeKleFJkKNY)
-- [Nuxt 3 + Tailwind CSS 3 Starter: How to add Tailwind CSS v3 to your Nuxt 3 application](https://www.youtube.com/watch?v=0oE2r51HyF0)
 <!-- YOUTUBE:END -->
