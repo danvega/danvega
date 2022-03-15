@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Office Hours](https://www.youtube.com/watch?v=rj4Lwb1Spp8)
 - [Spring Boot Secret Properties: How to store secrets in your Configuration Properties](https://www.youtube.com/watch?v=PmGLn3ua_lU)
 - [Spring Constructor Injection: Why is it the recommended approach to Dependency Injection?](https://www.youtube.com/watch?v=aX-bgylmprA)
 - [Java Records: How to use a Java Record in a Spring Boot Application](https://www.youtube.com/watch?v=3NshiQIy7p4)
 - [Netlify Serverless Functions: How to create a serverless function that talks to the Notion API](https://www.youtube.com/watch?v=A-b1ZdlNbww)
-- [Nuxt 3 + Notion: Learn how to use the Notion API in your Nuxt 3 Applications](https://www.youtube.com/watch?v=JvNhGu5ELgs)
 <!-- YOUTUBE:END -->
