@@ -24,7 +24,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Spring Data List Crud Repository: A look at the interface in Spring Data 3.0](https://www.youtube.com/watch?v=lDbE0uYlYgk)
+- [Spring Data List Crud Repository: A look at the new interface in Spring Data 3.0](https://www.youtube.com/watch?v=lDbE0uYlYgk)
 - [Spring Boot @JsonTest Annotation: How to write better JSON tests in Spring](https://www.youtube.com/watch?v=AiiprfLqriY)
 - [Office Hours: Episode 002](https://www.youtube.com/watch?v=rj4Lwb1Spp8)
 - [Spring Boot Secret Properties: How to store secrets in your Configuration Properties](https://www.youtube.com/watch?v=PmGLn3ua_lU)
