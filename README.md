@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Office Hours - Episode 003](https://www.youtube.com/watch?v=Rrm1iwSaWlY)
 - [Spring Boot @JsonTest Annotation: How to write better JSON tests in Spring](https://www.youtube.com/watch?v=AiiprfLqriY)
 - [Office Hours: Episode 002](https://www.youtube.com/watch?v=rj4Lwb1Spp8)
 - [Spring Boot Secret Properties: How to store secrets in your Configuration Properties](https://www.youtube.com/watch?v=PmGLn3ua_lU)
 - [Spring Constructor Injection: Why is it the recommended approach to Dependency Injection?](https://www.youtube.com/watch?v=aX-bgylmprA)
-- [Java Records: How to use a Java Record in a Spring Boot Application](https://www.youtube.com/watch?v=3NshiQIy7p4)
 <!-- YOUTUBE:END -->
