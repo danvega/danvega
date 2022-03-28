@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Office Hours](https://www.youtube.com/watch?v=vlVaPogvm6w)
 - [Spring Boot Notion API: How to access Notion from a Spring Application](https://www.youtube.com/watch?v=4yHYrQ7_gKM)
 - [Spring Data List Crud Repository: A look at the new interface in Spring Data 3.0](https://www.youtube.com/watch?v=lDbE0uYlYgk)
 - [Spring Boot @JsonTest Annotation: How to write better JSON tests in Spring](https://www.youtube.com/watch?v=AiiprfLqriY)
 - [Office Hours: Episode 002](https://www.youtube.com/watch?v=rj4Lwb1Spp8)
+- [Spring Boot Secret Properties: How to store secrets in your Configuration Properties](https://www.youtube.com/watch?v=PmGLn3ua_lU)
 <!-- YOUTUBE:END -->
