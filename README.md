@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Configuration Properties Default Value](https://www.youtube.com/watch?v=Gqn_q2sAebg)
 - [The fastest way to create a Vue 3 application.](https://www.youtube.com/watch?v=tbrMQukq1WI)
 - [Apollo Vue: How to Connect to GraphQL APIs in Vue JS](https://www.youtube.com/watch?v=CXyFs5wWask)
 - [Office Hours - Episode 04](https://www.youtube.com/watch?v=thqCEMyIBCU)
 - [Office Hours](https://www.youtube.com/watch?v=vlVaPogvm6w)
-- [Spring Boot Notion API: How to access Notion from a Spring Application](https://www.youtube.com/watch?v=4yHYrQ7_gKM)
 <!-- YOUTUBE:END -->
