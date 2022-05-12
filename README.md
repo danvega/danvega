@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot @Value Annotation](https://www.danvega.dev/blog/2022/05/12/undefined)
 - [Spring Boot @Value Annotation](https://www.danvega.dev/blog/2022/05/11/undefined)
 - [Im Joining VMware](https://www.danvega.dev/blog/2022/01/24/undefined)
 - [Happy New Year 2022](https://www.danvega.dev/blog/2022/01/01/happy-new-year-2022)
 - [14&quot; MacBook Pro M1 Max Review for developers and content creators](https://www.danvega.dev/blog/2021/11/15/macbook-pro-m1-max-review)
-- [GitHub Copilot for Java Develpers](https://www.danvega.dev/blog/2021/11/08/github-copilot-java-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
