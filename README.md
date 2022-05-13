@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Data JPA Pagination](https://www.youtube.com/watch?v=oq-c3D67WqM)
 - [Spring Boot @Value annotation](https://www.youtube.com/watch?v=vLSyFktOm4g)
 - [Spring Boot Configuration Properties Default Value](https://www.youtube.com/watch?v=Gqn_q2sAebg)
 - [The fastest way to create a Vue 3 application.](https://www.youtube.com/watch?v=tbrMQukq1WI)
 - [Apollo Vue: How to Connect to GraphQL APIs in Vue JS](https://www.youtube.com/watch?v=CXyFs5wWask)
-- [Office Hours - Episode 04](https://www.youtube.com/watch?v=thqCEMyIBCU)
 <!-- YOUTUBE:END -->
