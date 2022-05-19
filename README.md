@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Paginate in Spring Boot with GraphQL](https://www.youtube.com/watch?v=TVk2fMEezO4)
 - [GraphQL Spring Boot - How to get started with Spring for GraphQL](https://www.youtube.com/watch?v=3PCNqXrU-2g)
 - [Spring Data JPA Pagination](https://www.youtube.com/watch?v=oq-c3D67WqM)
 - [Spring Boot @Value annotation](https://www.youtube.com/watch?v=vLSyFktOm4g)
 - [Spring Boot Configuration Properties Default Value](https://www.youtube.com/watch?v=Gqn_q2sAebg)
-- [The fastest way to create a Vue 3 application.](https://www.youtube.com/watch?v=tbrMQukq1WI)
 <!-- YOUTUBE:END -->
