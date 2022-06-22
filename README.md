@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Multi Document properties](https://www.youtube.com/watch?v=5KjCHz9-nJo)
 - [Vue 3 Options API: You don&#39;t have to use the Composition API](https://www.youtube.com/watch?v=dciF5Pc3G1s)
 - [How to create your own custom annotations in Spring Boot](https://www.youtube.com/watch?v=1lEeEvdcZT0)
 - [Github Codespaces: How to create a Codespace with Spring Boot 3 &amp; Java 17](https://www.youtube.com/watch?v=PN2K1_jMl5A)
 - [How to Paginate in Spring Boot with GraphQL](https://www.youtube.com/watch?v=TVk2fMEezO4)
-- [GraphQL Spring Boot - How to get started with Spring for GraphQL](https://www.youtube.com/watch?v=3PCNqXrU-2g)
 <!-- YOUTUBE:END -->
