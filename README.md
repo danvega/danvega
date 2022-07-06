@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot GraphQL Tutorial: How to test your GraphQL APIs](https://www.youtube.com/watch?v=0b0x3C_BTT8)
 - [GraphQL Crud: How to create a GraphQL Crud API in Java](https://www.youtube.com/watch?v=AgSO3rcSuHE)
 - [Java Problem Solving Tutorial: Left to Right Evaluation](https://www.youtube.com/watch?v=FZFzKCSq8n8)
 - [Spring Boot Multi Document properties](https://www.youtube.com/watch?v=5KjCHz9-nJo)
 - [Vue 3 Options API: You don&#39;t have to use the Composition API](https://www.youtube.com/watch?v=dciF5Pc3G1s)
-- [How to create your own custom annotations in Spring Boot](https://www.youtube.com/watch?v=1lEeEvdcZT0)
 <!-- YOUTUBE:END -->
