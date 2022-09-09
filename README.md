@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security JWT](https://www.danvega.dev/blog/2022/09/06/spring-security-jwt)
 - [GraphQL Spring Boot - Up and Running with Spring for GraphQL](https://www.danvega.dev/blog/2022/05/17/spring-for-graphql)
 - [Spring Data JPA Pagination](https://www.danvega.dev/blog/2022/05/12/spring-data-jpa-pagination)
 - [Spring Boot @Value Annotation](https://www.danvega.dev/blog/2022/05/11/spring-boot-value-annotation)
 - [Im Joining VMware](https://www.danvega.dev/blog/2022/01/24/im-joining-vmware)
-- [Happy New Year 2022](https://www.danvega.dev/blog/2022/01/01/happy-new-year-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
