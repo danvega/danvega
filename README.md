@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens](https://www.youtube.com/watch?v=KYNR5js2cXE)
 - [Spring Boot GraphQL How to secure your GraphQL APIs in Java](https://www.youtube.com/watch?v=PkhsQPPFgOo)
 - [Spring Security without the WebSecurityConfigurerAdapter](https://www.youtube.com/watch?v=s4X4SJv2RrU)
 - [Spring Office Hours - Episode 10](https://www.youtube.com/watch?v=zJ40TVuFu5g)
 - [IntelliJ Live Templates Shortcuts in your Spring Boot Applications](https://www.youtube.com/watch?v=38VYJjjKqh0)
-- [Spring Boot GraphQL Tutorial: How to test your GraphQL APIs](https://www.youtube.com/watch?v=0b0x3C_BTT8)
 <!-- YOUTUBE:END -->
