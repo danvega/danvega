@@ -26,7 +26,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 <!-- YOUTUBE:START -->
 - [Create a REST API in Java using Spring Boot in less than 60 seconds](https://www.youtube.com/watch?v=JiDjWX4pzWo)
 - [Spring Boot &amp; JSON Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=DeDUcZZ2XKo)
-- [Spring Office Hours - Episode 11](https://www.youtube.com/watch?v=79cNoyXhHNU)
 - [Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens](https://www.youtube.com/watch?v=KYNR5js2cXE)
 - [Spring Boot GraphQL How to secure your GraphQL APIs in Java](https://www.youtube.com/watch?v=PkhsQPPFgOo)
+- [Spring Security without the WebSecurityConfigurerAdapter](https://www.youtube.com/watch?v=s4X4SJv2RrU)
 <!-- YOUTUBE:END -->
