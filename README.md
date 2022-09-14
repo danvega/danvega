@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot call REST API Tutorial](https://www.youtube.com/watch?v=XEtPVm_SL2Q)
 - [My #1 tip for anyone who wants to learn how to code 👨‍💻👩‍💻](https://www.youtube.com/watch?v=Ch_Q1mdZjuQ)
 - [Spring Office Hours - Episode 11](https://www.youtube.com/watch?v=79cNoyXhHNU)
 - [Create a REST API in Java using Spring Boot in less than 60 seconds](https://www.youtube.com/watch?v=JiDjWX4pzWo)
 - [Spring Boot &amp; JSON Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=DeDUcZZ2XKo)
-- [Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens](https://www.youtube.com/watch?v=KYNR5js2cXE)
 <!-- YOUTUBE:END -->
