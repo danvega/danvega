@@ -28,5 +28,5 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 - [Spring Office Hours Episode 13 - Observability with Jonatan Ivanov](https://www.youtube.com/watch?v=bNAikQefkXU)
 - [Spring Office Hours Episode 12](https://www.youtube.com/watch?v=mquczsmTIm8)
 - [Spring Boot call REST API Tutorial](https://www.youtube.com/watch?v=XEtPVm_SL2Q)
-- [My #1 tip for anyone who wants to learn how to code 👨‍💻👩‍💻](https://www.youtube.com/watch?v=Ch_Q1mdZjuQ)
+- [My #1 tip for anyone who wants to learn how to code 👨‍💻👩‍💻 #shorts](https://www.youtube.com/watch?v=Ch_Q1mdZjuQ)
 <!-- YOUTUBE:END -->
