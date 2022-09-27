@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The best and fastest way to Install Java 19](https://www.youtube.com/watch?v=VZoqz9PPHNs)
 - [H2 Database Spring Boot - How to connect and configure an in-memory H2 database in Spring Boot](https://www.youtube.com/watch?v=PSrHcCwvfVQ)
 - [SpringOne 2022 - Speakers, Sessions and Workshops Announcement #shorts](https://www.youtube.com/watch?v=BP71pgx1bi4)
 - [Java 19 release: What a great time to be a Java Developer #shorts](https://www.youtube.com/watch?v=KirPiS-M_Gg)
 - [Spring Office Hours Episode 12](https://www.youtube.com/watch?v=mquczsmTIm8)
-- [Spring Security JDBC: How to authenticate against a database in Spring Boot](https://www.youtube.com/watch?v=d7ZmZFbE_qY)
 <!-- YOUTUBE:END -->
