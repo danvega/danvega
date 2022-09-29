@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot REST API Domain Class Converter](https://www.youtube.com/watch?v=_QBe2ZiXV-0)
 - [Spring Office Hours Episode 13 - Observability with Jonatan Ivanov](https://www.youtube.com/watch?v=bNAikQefkXU)
 - [Spring Security CORS: How to configure CORS in Spring Boot &amp; Spring Security](https://www.youtube.com/watch?v=HRwlT_etr60)
 - [The best and fastest way to Install Java 19 #shorts](https://www.youtube.com/watch?v=VZoqz9PPHNs)
 - [H2 Database Spring Boot - How to connect and configure an in-memory H2 database in Spring Boot](https://www.youtube.com/watch?v=PSrHcCwvfVQ)
-- [SpringOne 2022 - Speakers, Sessions and Workshops Announcement #shorts](https://www.youtube.com/watch?v=BP71pgx1bi4)
 <!-- YOUTUBE:END -->
