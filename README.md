@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 15 - Spring to Production](https://www.youtube.com/watch?v=1cLu3sz56wY)
+- [Spring Office Hours - Episode 0014](https://www.youtube.com/watch?v=QPTSDrEJztg)
 - [Spring Security JPA Authentication in Spring Boot](https://www.youtube.com/watch?v=awcCiqBO36E)
 - [Spring Boot REST API Domain Class Converter](https://www.youtube.com/watch?v=_QBe2ZiXV-0)
 - [Spring Office Hours Episode 13 - Observability with Jonatan Ivanov](https://www.youtube.com/watch?v=bNAikQefkXU)
-- [Spring Security CORS: How to configure CORS in Spring Boot &amp; Spring Security](https://www.youtube.com/watch?v=HRwlT_etr60)
-- [The best and fastest way to Install Java 19 #shorts](https://www.youtube.com/watch?v=VZoqz9PPHNs)
 <!-- YOUTUBE:END -->
