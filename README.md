@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is the best way to learn Spring? #shorts](https://www.youtube.com/watch?v=JetJaKkDLoE)
 - [Spring Office Hours: Episode 0014 - Ahead of time &lpar;AOT&rpar; Compilation](https://www.youtube.com/watch?v=QPTSDrEJztg)
 - [Spring Office Hours: Episode 15 - Spring to Production](https://www.youtube.com/watch?v=1cLu3sz56wY)
 - [Spring Security JPA Authentication in Spring Boot](https://www.youtube.com/watch?v=awcCiqBO36E)
 - [Spring Boot REST API Domain Class Converter](https://www.youtube.com/watch?v=_QBe2ZiXV-0)
-- [Spring Office Hours Episode 13 - Observability with Jonatan Ivanov](https://www.youtube.com/watch?v=bNAikQefkXU)
 <!-- YOUTUBE:END -->
