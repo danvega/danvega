@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FREE Spring Dependency Injection Guide #shorts](https://www.youtube.com/watch?v=Qx5j6p-b8gs)
 - [Spring Boot Spring Security JWT: How to authenticate with a username and password](https://www.youtube.com/watch?v=UaB-0e76LdQ)
 - [Spring Boot GraphQL Testing Tip #shorts](https://www.youtube.com/watch?v=7qdyalH7mf4)
 - [Spring Data JDBC Tutorial: How to simplify data access in Spring Boot](https://www.youtube.com/watch?v=l_T0nQNbFiM)
 - [What is the best way to learn Spring? #shorts](https://www.youtube.com/watch?v=JetJaKkDLoE)
-- [Spring Office Hours: Episode 0014 - Ahead of time &lpar;AOT&rpar; Compilation](https://www.youtube.com/watch?v=QPTSDrEJztg)
 <!-- YOUTUBE:END -->
