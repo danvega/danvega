@@ -25,8 +25,8 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- YOUTUBE:START -->
 - [Spring Boot Azure: How to deploy a Spring Boot application to Microsoft Azure](https://www.youtube.com/watch?v=53T_R3xAPTg)
-- [Spring Office Hours: Episode 16 - Spring to Production](https://www.youtube.com/watch?v=m40_FKUCbq0)
 - [Spring Office Hours: Episode 15 - Spring to Production](https://www.youtube.com/watch?v=1cLu3sz56wY)
 - [FREE Spring Dependency Injection Guide #shorts](https://www.youtube.com/watch?v=Qx5j6p-b8gs)
 - [Spring Boot Spring Security JWT: How to authenticate with a username and password](https://www.youtube.com/watch?v=UaB-0e76LdQ)
+- [Spring Boot GraphQL Testing Tip #shorts](https://www.youtube.com/watch?v=7qdyalH7mf4)
 <!-- YOUTUBE:END -->
