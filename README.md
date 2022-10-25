@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 17 - Spring Boot 3.0 RC1](https://www.youtube.com/watch?v=WgcP00BOs5I)
 - [Dependency Injection Spring: How to use Dependency Injection in Spring Boot](https://www.youtube.com/watch?v=TBlB2_4_Sqo)
 - [Spring Office Hours: Episode 16 - Spring to Production](https://www.youtube.com/watch?v=m40_FKUCbq0)
 - [Spring Boot Azure: How to deploy a Spring Boot application to Microsoft Azure](https://www.youtube.com/watch?v=53T_R3xAPTg)
 - [Spring Office Hours: Episode 15 - Spring to Production](https://www.youtube.com/watch?v=1cLu3sz56wY)
-- [FREE Spring Dependency Injection Guide #shorts](https://www.youtube.com/watch?v=Qx5j6p-b8gs)
 <!-- YOUTUBE:END -->
