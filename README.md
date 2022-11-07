@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 19 - with Guest Host Greg Turnquist](https://www.youtube.com/watch?v=Mjq9g8hRaoI)
 - [Spring Office Hours: Episode 18 - Testing with Ted](https://www.youtube.com/watch?v=pZvpsHgba14)
 - [Spring Boot Docker and PostgreSQL](https://www.youtube.com/watch?v=_Gdb-jK3Sr4)
 - [Spring Boot 3 - Ahead of Time &lpar;AOT&rpar; Compilation is here!](https://www.youtube.com/watch?v=zPg4z5d3WVo)
 - [Spring Office Hours: Episode 17 - Spring Boot 3.0 RC1](https://www.youtube.com/watch?v=WgcP00BOs5I)
-- [Dependency Injection Spring: How to use Dependency Injection in Spring Boot](https://www.youtube.com/watch?v=TBlB2_4_Sqo)
 <!-- YOUTUBE:END -->
