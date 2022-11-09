@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 19 - with Guest Host Greg Turnquist](https://www.youtube.com/watch?v=Mjq9g8hRaoI)
 - [Spring Boot Heroku: How to deploy a Spring Boot application to Heroku](https://www.youtube.com/watch?v=lGtTOLKuvqs)
 - [Spring Boot Railway: How to deploy a Spring Boot application to Railway](https://www.youtube.com/watch?v=5sVxvF47dcU)
 - [Spring Office Hours: Episode 18 - Testing with Ted](https://www.youtube.com/watch?v=pZvpsHgba14)
 - [Spring Boot Docker and PostgreSQL](https://www.youtube.com/watch?v=_Gdb-jK3Sr4)
-- [Spring Boot 3 - Ahead of Time &lpar;AOT&rpar; Compilation is here!](https://www.youtube.com/watch?v=zPg4z5d3WVo)
 <!-- YOUTUBE:END -->
