@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 20 - Spring Security with Daniel Garnier-Moiroux](https://www.youtube.com/watch?v=0i6Xu3Pf83Q)
 - [How to Query RDS PostgreSQL from AWS Lambda in Java](https://www.youtube.com/watch?v=K1OI-S0ET70)
 - [AWS Lambda Java Tutorial: How to use the AWS Lambda Java Core Library](https://www.youtube.com/watch?v=kyWllXOGMWQ)
 - [AWS Lambda Java: How to create your first AWS Lambda Function in Java](https://www.youtube.com/watch?v=MaHxZEBRcT4)
 - [Spring Office Hours: Episode 19 - with Guest Host Greg Turnquist](https://www.youtube.com/watch?v=Mjq9g8hRaoI)
-- [Spring Boot Heroku: How to deploy a Spring Boot application to Heroku](https://www.youtube.com/watch?v=lGtTOLKuvqs)
 <!-- YOUTUBE:END -->
