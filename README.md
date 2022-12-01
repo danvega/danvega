@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS Lambda SnapStart for Java](https://www.youtube.com/watch?v=L2oJ-nL-Zfk)
 - [Spring Framework 6 Trailing Slash Changes #shorts](https://www.youtube.com/watch?v=C_njlumpFc4)
 - [Spring Office Hours: Episode 21 - Spring Boot 3: First Look](https://www.youtube.com/watch?v=KF1EffD9-ao)
 - [Hello 👋🏻 20.000 Subscribers 🙏](https://www.youtube.com/watch?v=hsMKOirkLZU)
 - [Serverless Spring: Deploy serverless functions to any platform using Spring Cloud Function](https://www.youtube.com/watch?v=gj1DDymw5iY)
-- [Spring Office Hours: Episode 20 - Spring Security with Daniel Garnier-Moiroux](https://www.youtube.com/watch?v=0i6Xu3Pf83Q)
 <!-- YOUTUBE:END -->
