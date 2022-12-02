@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS Lambda SnapStart for Spring Developers](https://www.youtube.com/watch?v=isS6m6aj_Ak)
 - [What&#39;s new in Spring Security 6](https://www.youtube.com/watch?v=TDOHbK39Oxg)
 - [AWS Lambda SnapStart for Java](https://www.youtube.com/watch?v=L2oJ-nL-Zfk)
 - [Spring Framework 6 Trailing Slash Changes #shorts](https://www.youtube.com/watch?v=C_njlumpFc4)
 - [Spring Office Hours: Episode 21 - Spring Boot 3: First Look](https://www.youtube.com/watch?v=KF1EffD9-ao)
-- [Hello 👋🏻 20.000 Subscribers 🙏](https://www.youtube.com/watch?v=hsMKOirkLZU)
 <!-- YOUTUBE:END -->
