@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: Episode 22 - Getting Started with Spring Boot](https://www.youtube.com/watch?v=OtaQZij3emQ)
 - [How to quickly autowire your Spring Beans in IntelliJ 2022.3 #shorts](https://www.youtube.com/watch?v=rF-jY6pKUBQ)
 - [AWS Lambda SnapStart for Spring Developers](https://www.youtube.com/watch?v=isS6m6aj_Ak)
 - [What&#39;s new in Spring Security 6](https://www.youtube.com/watch?v=TDOHbK39Oxg)
 - [AWS Lambda SnapStart for Java](https://www.youtube.com/watch?v=L2oJ-nL-Zfk)
-- [Spring Framework 6 Trailing Slash Changes #shorts](https://www.youtube.com/watch?v=C_njlumpFc4)
 <!-- YOUTUBE:END -->
