@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IntelliJ Java Postfix Completion to create a new variable #shorts](https://www.youtube.com/watch?v=wOYTJLQ0xNM)
 - [Spring Boot 3 - What’s new in Spring Framework 6 and Spring Boot 3.0](https://www.youtube.com/watch?v=TR254zh-f3c)
 - [When to use a ResponseEntity in Spring Boot #shorts](https://www.youtube.com/watch?v=DvOGJDL6-98)
 - [Spring Office Hours: Episode 22 - Getting Started with Spring Boot](https://www.youtube.com/watch?v=OtaQZij3emQ)
 - [How to quickly autowire your Spring Beans in IntelliJ 2022.3 #shorts](https://www.youtube.com/watch?v=rF-jY6pKUBQ)
-- [AWS Lambda SnapStart for Spring Developers](https://www.youtube.com/watch?v=isS6m6aj_Ak)
 <!-- YOUTUBE:END -->
