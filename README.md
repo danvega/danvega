@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring @Configuration Annotation - What are Proxy Bean Methods?](https://www.youtube.com/watch?v=VoK6-OiSPu4)
 - [Spring ResponseEntity -  How to customize the response in Spring Boot](https://www.youtube.com/watch?v=B5Zrn1Tzyqw)
 - [Spring Security JWT: Implementing the client &lpar;frontend&rpar; using Json Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=6kFzJZCW1Qw)
 - [How to use Google reCaptcha v3 in your Spring Boot application](https://www.youtube.com/watch?v=dyA_Pbtbn_E)
 - [Spring Office Hours: Episode 23 - Getting Started with Spring Boot Part 2](https://www.youtube.com/watch?v=Rx-qq3likgM)
-- [IntelliJ Java Postfix Completion to create a new variable #shorts](https://www.youtube.com/watch?v=wOYTJLQ0xNM)
 <!-- YOUTUBE:END -->
