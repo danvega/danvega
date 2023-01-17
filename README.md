@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 0026: CodeMash 2023 Recap](https://www.youtube.com/watch?v=kUvcn0I8xGU)
 - [Spring Office Hours: Episode 25 - Happy New Year!](https://www.youtube.com/watch?v=xdUksyOtt4w)
 - [Spring Office Hours: Episode 24 - Spring Cloud Data Flow](https://www.youtube.com/watch?v=4bNd7Iej0e0)
 - [Spring @Configuration Annotation - What are Proxy Bean Methods?](https://www.youtube.com/watch?v=VoK6-OiSPu4)
 - [Spring ResponseEntity -  How to customize the response in Spring Boot](https://www.youtube.com/watch?v=B5Zrn1Tzyqw)
-- [Spring Security JWT: Implementing the client &lpar;frontend&rpar; using Json Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=6kFzJZCW1Qw)
 <!-- YOUTUBE:END -->
