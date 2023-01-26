@@ -25,7 +25,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- YOUTUBE:START -->
 - [Secure your REST APIs with Spring Security &amp; Symmetric Key Encryption](https://www.youtube.com/watch?v=66DtzkhBlSA)
-- [Episode 0026: CodeMash 2023 Recap](https://www.youtube.com/watch?v=kUvcn0I8xGU)
+- [Spring Office Hours: Episode 26 - CodeMash 2023 Recap](https://www.youtube.com/watch?v=kUvcn0I8xGU)
 - [Spring Office Hours: Episode 25 - Happy New Year!](https://www.youtube.com/watch?v=xdUksyOtt4w)
 - [Spring Office Hours: Episode 24 - Spring Cloud Data Flow](https://www.youtube.com/watch?v=4bNd7Iej0e0)
 - [Spring @Configuration Annotation - What are Proxy Bean Methods?](https://www.youtube.com/watch?v=VoK6-OiSPu4)
