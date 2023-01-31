@@ -25,7 +25,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- YOUTUBE:START -->
 - [GraphQL Scalars - How to use Custom Scalars in Java](https://www.youtube.com/watch?v=ooknmgr4WiA)
-- [Spring Office Hours: Episode 26 - SpringOne Essentials Recap](https://www.youtube.com/watch?v=yUj0hw50R9k)
+- [Spring Office Hours: Episode 27 - SpringOne Essentials Recap](https://www.youtube.com/watch?v=yUj0hw50R9k)
 - [Jakarta EE 10: Easily Implement UUIDs as Primary Keys in Spring Boot 3](https://www.youtube.com/watch?v=ZWwqcH__kr4)
 - [Secure your REST APIs with Spring Security &amp; Symmetric Key Encryption](https://www.youtube.com/watch?v=66DtzkhBlSA)
 - [Spring Office Hours: Episode 26 - CodeMash 2023 Recap](https://www.youtube.com/watch?v=kUvcn0I8xGU)
