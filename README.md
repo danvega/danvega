@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Episode 0028: Community Q&amp;A](https://www.youtube.com/watch?v=iX8bMlR8Nsw)
 - [Building Native Images in Java with GraalVM](https://www.youtube.com/watch?v=Rk4zfvVvRks)
 - [The #1 Question I get asked as a Software Developer &amp; Content Creator](https://www.youtube.com/watch?v=g78is10FjF0)
 - [Will Artificial Intelligence &lpar;AI&rpar; Replace Software Developers](https://www.youtube.com/watch?v=m3MkJQ_Hn0k)
 - [Spring Office Hours: Episode 27 - SpringOne Essentials Recap](https://www.youtube.com/watch?v=yUj0hw50R9k)
+- [GraphQL Scalars - How to use Custom Scalars in Java](https://www.youtube.com/watch?v=ooknmgr4WiA)
 <!-- YOUTUBE:END -->
