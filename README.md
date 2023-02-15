@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 0029: Mailbag](https://www.youtube.com/watch?v=gLtqc5Yet6A)
 - [Can Chat GPT Build a Spring Boot Application](https://www.youtube.com/watch?v=CXbXoMIVpRg)
 - [What does it take to be a Developer Advocate?](https://www.youtube.com/watch?v=RW6DsRQV_4M)
 - [Spring RestTemplate vs WebClient or Java HttpClient](https://www.youtube.com/watch?v=vas12Uao1UQ)
 - [Will Virtual Threads render Spring WebFlux Obsolete?](https://www.youtube.com/watch?v=JZu94r1CTYI)
-- [WTF GPT: Learn How to create a Java CLI that talks to the Chat GPT API](https://www.youtube.com/watch?v=6RXtDxapKX8)
 <!-- YOUTUBE:END -->
