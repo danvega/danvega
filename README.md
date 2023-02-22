@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cutting up Spring Office Hours](https://www.youtube.com/watch?v=uQDa5eNUSyo)
 - [Spring Office Hours: Episode 30 - Mailbag](https://www.youtube.com/watch?v=tZXyc9dWwo0)
 - [Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3](https://www.youtube.com/watch?v=UgX5lgv4uVM)
 - [Episode 0029: Mailbag](https://www.youtube.com/watch?v=gLtqc5Yet6A)
 - [Can Chat GPT Build a Spring Boot Application](https://www.youtube.com/watch?v=CXbXoMIVpRg)
-- [What does it take to be a Developer Advocate?](https://www.youtube.com/watch?v=RW6DsRQV_4M)
 <!-- YOUTUBE:END -->
