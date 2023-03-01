@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to Spring Shell &lpar;Part 4&rpar;](https://www.youtube.com/watch?v=0R3vlbxfKHA)
 - [Spring Office Hours: Episode 31 - Upgrading to Spring Boot 3](https://www.youtube.com/watch?v=RX8TB1UVJ94)
-- [Introduction to Spring Shell Introduction &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=1xuTqgilNzM)
+- [Introduction to Spring Shell &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=1xuTqgilNzM)
 - [Introduction to Spring Shell &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=FDRfg77MJsk)
 - [Video Editing Spring Office Hours into YouTube Shorts](https://www.youtube.com/watch?v=uQDa5eNUSyo)
-- [Spring Office Hours: Episode 30 - Mailbag](https://www.youtube.com/watch?v=tZXyc9dWwo0)
 <!-- YOUTUBE:END -->
