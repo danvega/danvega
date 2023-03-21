@@ -27,6 +27,6 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 - [Learn how to use GraphQL Mutations in Spring Boot](https://www.youtube.com/watch?v=u3FFRq3-0CM)
 - [Spring Boot Security Simplified with Spring Security Lambda DSL](https://www.youtube.com/watch?v=PWnEZh_t0WI)
 - [Spring Office Hours: Episode 33 - Spring Academy](https://www.youtube.com/watch?v=BvP4tCJ5YSs)
-- [Spring Office Hours: Episode 35 - Spring Cloud Kubernetes](https://www.youtube.com/watch?v=f5H0dIHY-L4)
+- [Spring Office Hours: Episode 34 - Spring Cloud Kubernetes](https://www.youtube.com/watch?v=f5H0dIHY-L4)
 - [Spring Office Hours: Episode 32 - Spring Boot 3.0.4](https://www.youtube.com/watch?v=eRMbHR5LnOc)
 <!-- YOUTUBE:END -->
