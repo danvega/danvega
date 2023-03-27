@@ -14,7 +14,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Configuration proxy bean methods](https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods)
+- [Working with GraphQL Mutations in Spring Boot](https://www.danvega.dev/blog/2023/03/20/graphql-mutations)
 - [Notion API File Request has expired](https://www.danvega.dev/blog/2023/03/12/notion-api-file-expired)
 - [Getting Started with Spring: A Beginner&#39;s Guide](https://www.danvega.dev/blog/2023/03/09/spring-boot-crash-course)
 - [Easily Implement UUIDs as Primary Keys in Spring Boot 3](https://www.danvega.dev/blog/2023/01/27/jakarta-ee-10-uuid)
