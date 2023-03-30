@@ -15,10 +15,10 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- BLOG-POST-LIST:START -->
 - [Working with GraphQL Mutations in Spring Boot](https://www.danvega.dev/blog/2023/03/20/graphql-mutations)
+- [Spring Boot Security Lambda DSL](https://www.danvega.dev/blog/2023/03/15/spring-security-lambda-dsl)
 - [Notion API File Request has expired](https://www.danvega.dev/blog/2023/03/12/notion-api-file-expired)
 - [Getting Started with Spring: A Beginner&#39;s Guide](https://www.danvega.dev/blog/2023/03/09/spring-boot-crash-course)
 - [Building Command Line Applications in Spring with Spring Shell](https://www.danvega.dev/blog/2023/03/02/spring-shell-intro)
-- [Easily Implement UUIDs as Primary Keys in Spring Boot 3](https://www.danvega.dev/blog/2023/01/27/jakarta-ee-10-uuid)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
