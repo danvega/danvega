@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why VideoTap is a Game-Changer for Content Creators: Convert Videos to Blog Posts in Minutes!](https://www.danvega.dev/blog/2023/03/31/videotap)
 - [Working with GraphQL Mutations in Spring Boot](https://www.danvega.dev/blog/2023/03/20/graphql-mutations)
 - [Spring Security Configuration - Lambda DSL](https://www.danvega.dev/blog/2023/03/15/spring-security-lambda-dsl)
 - [Notion API File Request has expired](https://www.danvega.dev/blog/2023/03/12/notion-api-file-expired)
 - [Getting Started with Spring: A Beginner&#39;s Guide](https://www.danvega.dev/blog/2023/03/09/spring-boot-crash-course)
-- [Building Command Line Applications in Spring with Spring Shell](https://www.danvega.dev/blog/2023/03/02/spring-shell-intro)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
