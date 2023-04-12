@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Developers: Unleash the Power of String-to-Integer Parsing in a Flash!](https://www.youtube.com/watch?v=WtWbR6UrT8E)
+- [Master Java String Comparison: Unlock the Power of the Equals Method in Under 60 Seconds!](https://www.youtube.com/watch?v=HuGWdsHGcm4)
 - [Spring into the Future: Embracing Virtual Threads with Java&#39;s Project Loom](https://www.youtube.com/watch?v=Is5HXJhC3jE)
 - [Spring Office Hours: Episode 35 - Live from Devnexus](https://www.youtube.com/watch?v=kkq-FdLzXQk)
 - [Spring Office Hours: Episode 34 - Spring Cloud Kubernetes](https://www.youtube.com/watch?v=f5H0dIHY-L4)
-- [Learn how to use GraphQL Mutations in Spring Boot](https://www.youtube.com/watch?v=u3FFRq3-0CM)
-- [Spring Boot Security Simplified with Spring Security Lambda DSL](https://www.youtube.com/watch?v=PWnEZh_t0WI)
 <!-- YOUTUBE:END -->
