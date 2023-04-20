@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Advanced Spring Security - How to create multiple Spring Security Configurations](https://www.youtube.com/watch?v=PczgM2L3w60)
 - [How to pronounce Char in Java](https://www.youtube.com/watch?v=YTcoGEIuRUQ)
 - [Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!](https://www.youtube.com/watch?v=CWEQ-1vff1o)
 - [Create a GraphQL Client in Java with Spring Boot](https://www.youtube.com/watch?v=BuPItqaVeGo)
 - [How to convert a String into an Integer in Java](https://www.youtube.com/watch?v=WtWbR6UrT8E)
-- [Master Java String Comparison: Unlock the Power of the Equals Method in Under 60 Seconds!](https://www.youtube.com/watch?v=HuGWdsHGcm4)
 <!-- YOUTUBE:END -->
