@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create Your Own YouTube Command-Line Interface with Java &amp; Spring!](https://www.youtube.com/watch?v=Oi8JeTswYVI)
 - [Quick Java Tip: How to Use the String.contains Method in Just 60 Seconds! 💡](https://www.youtube.com/watch?v=nSYpFhlUFzM)
 - [Advanced Spring Security - How to create multiple Spring Security Configurations](https://www.youtube.com/watch?v=PczgM2L3w60)
 - [How to pronounce Char in Java](https://www.youtube.com/watch?v=YTcoGEIuRUQ)
 - [Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!](https://www.youtube.com/watch?v=CWEQ-1vff1o)
-- [Create a GraphQL Client in Java with Spring Boot](https://www.youtube.com/watch?v=BuPItqaVeGo)
 <!-- YOUTUBE:END -->
