@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.youtube.com/watch?v=k62bO-W6Sb0)
 - [OAuth2 Login Made Easy in Java: A Spring Boot &amp; Spring Security Walkthrough](https://www.youtube.com/watch?v=us0VjFiHogo)
 - [Spring Boot Docker Compose](https://www.youtube.com/watch?v=mRIJ1GddqBs)
 - [🔥 New in Spring Boot 3.1 - Spring Boot Docker Compose Module](https://www.youtube.com/watch?v=lS1GwdIfk0c)
 - [Create Your Own YouTube Command-Line Interface with Java &amp; Spring!](https://www.youtube.com/watch?v=Oi8JeTswYVI)
-- [Quick Java Tip: How to Use the String.contains Method in Just 60 Seconds! 💡](https://www.youtube.com/watch?v=nSYpFhlUFzM)
 <!-- YOUTUBE:END -->
