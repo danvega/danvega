@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring for GraphQL Schema Mapping Inspection](https://www.youtube.com/watch?v=YBPG0JbHvpY)
 - [Where to deploy those Spring Boot Personal Projects](https://www.youtube.com/watch?v=GGPPkUcHleQ)
 - [Spring HTTP Interface Clients: Consuming HTTP services in Spring Boot](https://www.youtube.com/watch?v=4U0hUyktpvg)
 - [How to add Request Headers using HTTP Interfaces in Spring Boot 3](https://www.youtube.com/watch?v=AOJzm7yFOl0)
 - [Java 17 🤝 AWS Lambda: Creating Serverless Functions in Java &amp; Spring with Java 17](https://www.youtube.com/watch?v=bxK4GscuVgs)
-- [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.youtube.com/watch?v=k62bO-W6Sb0)
 <!-- YOUTUBE:END -->
