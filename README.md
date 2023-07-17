@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring for GraphQL Schema Mapping Inspection Report](https://www.danvega.dev/blog/2023/07/17/graphql-schema-mapping-inspection)
 - [Deploying Spring Boot 3 Applications to AWS Lambda](https://www.danvega.dev/blog/2023/06/30/aws-lambda-spring-boot-3)
 - [Demystifying Spring Session: A Comprehensive Introduction for Java Developers!](https://www.danvega.dev/blog/2023/05/03/spring-session-introduction)
 - [OAuth2 Login Made Easy in Java: A Spring Boot &amp; Spring Security Walkthrough](https://www.danvega.dev/blog/2023/04/28/spring-security-oauth2-login)
 - [🔥 New in Spring Boot 3.1 - Spring Boot Docker Compose Module](https://www.danvega.dev/blog/2023/04/26/spring-boot-docker-compose)
-- [Advanced Spring Security - How to create multiple Spring Security Configurations](https://www.danvega.dev/blog/2023/04/20/multiple-spring-security-configs)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
