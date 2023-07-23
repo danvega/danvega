@@ -24,7 +24,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GraphQL Pagination Cursor in Java and Spring Boot](https://www.youtube.com/watch?v=3YTSh8vJ8eY)
+- [GraphQL Pagination Support in Spring for GraphQL](https://www.youtube.com/watch?v=3YTSh8vJ8eY)
 - [Streamline Your Development: Spring Boot with PostgreSQL &amp; pgAdmin in Docker](https://www.youtube.com/watch?v=XDlgWyVfSMA)
 - [Spring for GraphQL Schema Mapping Inspection](https://www.youtube.com/watch?v=YBPG0JbHvpY)
 - [Where to deploy those Spring Boot Personal Projects](https://www.youtube.com/watch?v=GGPPkUcHleQ)
