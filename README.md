@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The History of Spring - SpringOne at VMware Explore 2023](https://www.youtube.com/watch?v=bV8sXYiPRP0)
 - [GraphQL Pagination Support in Spring for GraphQL](https://www.youtube.com/watch?v=3YTSh8vJ8eY)
 - [Streamline Your Development: Spring Boot with PostgreSQL &amp; pgAdmin in Docker](https://www.youtube.com/watch?v=XDlgWyVfSMA)
 - [Spring for GraphQL Schema Mapping Inspection](https://www.youtube.com/watch?v=YBPG0JbHvpY)
 - [Where to deploy those Spring Boot Personal Projects](https://www.youtube.com/watch?v=GGPPkUcHleQ)
-- [Spring HTTP Interface Clients: Consuming HTTP services in Spring Boot](https://www.youtube.com/watch?v=4U0hUyktpvg)
 <!-- YOUTUBE:END -->
