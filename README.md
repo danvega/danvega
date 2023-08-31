@@ -24,7 +24,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Spring Boot &amp; JSON: A Practical Guide to Database Persistence](https://www.youtube.com/watch?v=EumLbf8WjnY)
+- [Spring Boot &amp; JSON: A Practical Guide to reading JSON and Persisting it to a database](https://www.youtube.com/watch?v=EumLbf8WjnY)
 - [The History of Spring - SpringOne at VMware Explore 2023](https://www.youtube.com/watch?v=bV8sXYiPRP0)
 - [GraphQL Pagination Support in Spring for GraphQL](https://www.youtube.com/watch?v=3YTSh8vJ8eY)
 - [Streamline Your Development: Spring Boot with PostgreSQL &amp; pgAdmin in Docker](https://www.youtube.com/watch?v=XDlgWyVfSMA)
