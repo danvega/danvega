@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is a Client in Spring?](https://www.youtube.com/watch?v=yBUskJd0Qww)
+- [Http Interfaces in Spring using the new Rest Client](https://www.youtube.com/watch?v=jgR9PxeY1mU)
 - [Spring Rest Client First Look](https://www.youtube.com/watch?v=owD-bIeOYcY)
 - [A First Look at the new Rest Client in Spring Boot 3.2](https://www.youtube.com/watch?v=UDNrJAvKc0k)
 - [Nuxt Meets Java: Crafting a Seamless GraphQL API Connection](https://www.youtube.com/watch?v=GzB-pL7gJcc)
-- [How to read in YAML data with Jackson in Spring Boot Applications](https://www.youtube.com/watch?v=zy8slvenGxc)
-- [Spring Boot &amp; JsonNode: How to use it and when to turn to creating Custom Deserializers](https://www.youtube.com/watch?v=cw0TfpcUkao)
 <!-- YOUTUBE:END -->
