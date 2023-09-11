@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot 3.2&#39;s Secret Weapon: Auto-Configured JDBC Client for Effortless Database Integration!](https://www.youtube.com/watch?v=JBu5GibEJ4k)
 - [What is a Client in Spring?](https://www.youtube.com/watch?v=yBUskJd0Qww)
 - [Http Interfaces in Spring using the new Rest Client](https://www.youtube.com/watch?v=jgR9PxeY1mU)
 - [Spring Rest Client First Look](https://www.youtube.com/watch?v=owD-bIeOYcY)
 - [A First Look at the new Rest Client in Spring Boot 3.2](https://www.youtube.com/watch?v=UDNrJAvKc0k)
-- [Nuxt Meets Java: Crafting a Seamless GraphQL API Connection](https://www.youtube.com/watch?v=GzB-pL7gJcc)
 <!-- YOUTUBE:END -->
