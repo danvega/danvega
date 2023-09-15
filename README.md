@@ -24,7 +24,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The #1 Sprint Boot Starter you should include in your next application](https://www.youtube.com/watch?v=1otiGkwk76s)
+- [The #1 #SpringBoot Starter you should include in your next application](https://www.youtube.com/watch?v=1otiGkwk76s)
 - [The #1 Spring Boot Starter you should include in every single application](https://www.youtube.com/watch?v=4OVe0MWgZ4k)
 - [Working with JDBC in Java + Spring](https://www.youtube.com/watch?v=IYi2hHpO9W8)
 - [Spring Framework&#39;s new JDBC Client - First Impressions](https://www.youtube.com/watch?v=66O-PSw25fU)
