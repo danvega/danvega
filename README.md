@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Observability Uncovered: Enabling &amp; Using the Observation API](https://www.youtube.com/watch?v=exRkiVLyPpc)
 - [Building a #SpringBoot application that is production ready](https://www.youtube.com/watch?v=LCqIQ5YorgI)
 - [The Spring Boot Actuator helps us move to PRODUCTION](https://www.youtube.com/watch?v=PLuqBHzciT4)
 - [The #1 #SpringBoot Starter you should include in your next application](https://www.youtube.com/watch?v=1otiGkwk76s)
 - [The #1 Spring Boot Starter you should include in every single application](https://www.youtube.com/watch?v=4OVe0MWgZ4k)
-- [Working with JDBC in Java + Spring](https://www.youtube.com/watch?v=IYi2hHpO9W8)
 <!-- YOUTUBE:END -->
