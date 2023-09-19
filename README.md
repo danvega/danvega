@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why should we care about Observability?](https://www.youtube.com/watch?v=-Rfd_h7FFB4)
 - [Observability was a major theme in Spring Boot 3.0 &amp; Beyond 🚀](https://www.youtube.com/watch?v=4jcmfaJk8_g)
 - [Spring Boot Observability Uncovered: Enabling &amp; Using the Observation API](https://www.youtube.com/watch?v=exRkiVLyPpc)
 - [Building a #SpringBoot application that is production ready](https://www.youtube.com/watch?v=LCqIQ5YorgI)
 - [The Spring Boot Actuator helps us move to PRODUCTION](https://www.youtube.com/watch?v=PLuqBHzciT4)
-- [The #1 #SpringBoot Starter you should include in your next application](https://www.youtube.com/watch?v=1otiGkwk76s)
 <!-- YOUTUBE:END -->
