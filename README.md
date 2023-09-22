@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Code Structure: Package by Layer vs Package by Feature](https://www.youtube.com/watch?v=B1d95I7-zsw)
 - [Java 21 includes 15 new JEPs &lpar;JDK Enhancement Proposals&rpar;](https://www.youtube.com/watch?v=HLvmh3_UwOg)
 - [How to remove boilerplate in Java 21](https://www.youtube.com/watch?v=SJDJaIw5mZA)
 - [Upgrading to Java 21 with SDKMan](https://www.youtube.com/watch?v=Hf8wbF3qb4k)
 - [Getting Started with Java 21 - JDK 21 First Look](https://www.youtube.com/watch?v=aqc5YB7TISM)
-- [Create an Observable Spring Boot Application](https://www.youtube.com/watch?v=dTaoKGav7ws)
 <!-- YOUTUBE:END -->
