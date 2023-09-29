@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Connecting to a database that is running in a Docker container](https://www.youtube.com/watch?v=ddw8taHujQ8)
 - [Spring Docker Compose Module - Connecting to the Container Database](https://www.youtube.com/watch?v=NOrwxSI_VIg)
 - [Spring Boot Application - Package by Feature](https://www.youtube.com/watch?v=DPLJdeng6b8)
 - [Spring Boot - Package By Layer](https://www.youtube.com/watch?v=9-RGsD70uo0)
 - [Spring Boot Application Code Structure](https://www.youtube.com/watch?v=C4YRAXNVrbA)
-- [Spring Boot Code Structure: Package by Layer vs Package by Feature](https://www.youtube.com/watch?v=B1d95I7-zsw)
 <!-- YOUTUBE:END -->
