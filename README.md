@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Testcontainers - Integration Testing made easy!](https://www.youtube.com/watch?v=erp-7MCK5BU)
 - [Getting Started with TDD in Spring Boot](https://www.youtube.com/watch?v=9BUE1HjxW2o)
 - [Test Driven Development &lpar;TDD&rpar; in Spring](https://www.youtube.com/watch?v=-H5sud1-K5A)
 - [Mapping Ports in a Docker Compose file #springboot](https://www.youtube.com/watch?v=qakesG6vxBo)
 - [Connecting to a database that is running in a Docker container](https://www.youtube.com/watch?v=ddw8taHujQ8)
-- [Spring Docker Compose Module - Connecting to the Container Database](https://www.youtube.com/watch?v=NOrwxSI_VIg)
 <!-- YOUTUBE:END -->
