@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Testing - ** Batteries Included 🔋🔋](https://www.youtube.com/watch?v=rUbjV3VY1DI)
 - [Building an API Gateway in Java with Spring Cloud Gateway](https://www.youtube.com/watch?v=EKoq98KqvrI)
 - [Writing Tests in Java with Testcontainers](https://www.youtube.com/watch?v=yuOv-wRvCMI)
 - [Spring Boot Testcontainers - Integration Testing made easy!](https://www.youtube.com/watch?v=erp-7MCK5BU)
 - [Getting Started with TDD in Spring Boot](https://www.youtube.com/watch?v=9BUE1HjxW2o)
-- [Test Driven Development &lpar;TDD&rpar; in Spring](https://www.youtube.com/watch?v=-H5sud1-K5A)
 <!-- YOUTUBE:END -->
