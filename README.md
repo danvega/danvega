@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is an API Gateway?](https://www.youtube.com/watch?v=gswspnb6wYI)
+- [What is Spring Cloud Gateway?](https://www.youtube.com/watch?v=o_h8BR2BcFk)
 - [Introduction to Spring Cloud Gateway](https://www.youtube.com/watch?v=SukqRvTfZwM)
 - [Spring Boot Testing - Batteries Included](https://www.youtube.com/watch?v=cjVRFjCzlLk)
 - [Spring Boot Testing - ** Batteries Included 🔋🔋](https://www.youtube.com/watch?v=rUbjV3VY1DI)
-- [Building an API Gateway in Java with Spring Cloud Gateway](https://www.youtube.com/watch?v=EKoq98KqvrI)
-- [Writing Tests in Java with Testcontainers](https://www.youtube.com/watch?v=yuOv-wRvCMI)
 <!-- YOUTUBE:END -->
