@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The new danvega.dev powered by Nuxt / Vue / Tailwind](https://www.youtube.com/watch?v=0giBZlNqSLQ)
 - [What is an API Gateway?](https://www.youtube.com/watch?v=gswspnb6wYI)
 - [What is Spring Cloud Gateway?](https://www.youtube.com/watch?v=o_h8BR2BcFk)
 - [Introduction to Spring Cloud Gateway](https://www.youtube.com/watch?v=SukqRvTfZwM)
 - [Spring Boot Testing - Batteries Included](https://www.youtube.com/watch?v=cjVRFjCzlLk)
-- [Spring Boot Testing - ** Batteries Included 🔋🔋](https://www.youtube.com/watch?v=rUbjV3VY1DI)
 <!-- YOUTUBE:END -->
