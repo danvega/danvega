@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Groovy Spring - Exploring Spring Development with alternative JVM Languages](https://www.youtube.com/watch?v=aPIGYUDEKsY)
 - [GraphQl Live Coding Presentation from VMware Explore Barcelona](https://www.youtube.com/watch?v=1mRK3FeV76I)
 - [Running Spring Guides in the Cloud - Powered By Spring Academy](https://www.youtube.com/watch?v=kSSStm6b0Zg)
 - [The new danvega.dev powered by Nuxt / Vue / Tailwind](https://www.youtube.com/watch?v=0giBZlNqSLQ)
 - [What is an API Gateway?](https://www.youtube.com/watch?v=gswspnb6wYI)
-- [What is Spring Cloud Gateway?](https://www.youtube.com/watch?v=o_h8BR2BcFk)
 <!-- YOUTUBE:END -->
