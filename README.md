@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Virtual Threads in Spring Boot](https://www.youtube.com/watch?v=7jU8_knPcZE)
 - [Using Groovy in Spring Boot](https://www.youtube.com/watch?v=A9x8a42tUlw)
 - [Multiple JDBC Clients - How to configure multiple DataSources in Spring](https://www.youtube.com/watch?v=ZKYFGuukhT4)
 - [What is the difference between JDBC Client and Spring Data JDBC?](https://www.youtube.com/watch?v=qLDrfebeXS0)
 - [Significant Scalability Benefits in Spring Boot 3.2 using Virtual Threads](https://www.youtube.com/watch?v=THavIYnlwck)
-- [Introduction to Project CRaC: Enhancing Runtime Efficiency in Java &amp; Spring Development](https://www.youtube.com/watch?v=sVXUx_Y4hRU)
 <!-- YOUTUBE:END -->
