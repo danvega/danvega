@@ -15,7 +15,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- BLOG-POST-LIST:START -->
 - [Virtual Threads in Spring Boot](/blog/2023/12/14/virtual-threads-spring-boot)
-- [The Number One Spring Boot Starter You Should Include in Every Project](/blog/2023/09/17/spring-boot-starter)
+- [The Spring Boot Actuator is the one dependency you should include in every project](/blog/2023/09/17/spring-boot-actuator)
 - [A First Look at the new JDBC Client in Spring Boot 3.2](/blog/2023/09/11/spring-jdbc-client)
 - [A First Look at the new Rest Client in Spring Boot 3.2](/blog/2023/09/08/rest-client-first-look)
 - [Streamline Your Development: Spring Boot with PostgreSQL &amp; pgAdmin in Docker](/blog/2023/07/17/pgadmin-docker-compose)
