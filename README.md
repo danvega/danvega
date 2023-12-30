@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Year in Review](/blog/2023/12/30/2023-year-in-review)
 - [What&#39;s New in Spring Boot 3.2](/blog/2023/12/20/spring-boot-3-2)
 - [Virtual Threads in Spring Boot](/blog/2023/12/14/virtual-threads-spring-boot)
 - [The Spring Boot Actuator is the one dependency you should include in every project](/blog/2023/09/17/spring-boot-actuator)
 - [A First Look at the new JDBC Client in Spring Boot 3.2](/blog/2023/09/11/spring-jdbc-client)
-- [A First Look at the new Rest Client in Spring Boot 3.2](/blog/2023/09/08/rest-client-first-look)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
