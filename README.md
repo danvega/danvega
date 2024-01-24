@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Rest Client - How to change the underlying HTTP Client](https://www.youtube.com/watch?v=9M0NggD6Mbw)
 - [Building Full-Stack Applications in Java with Vaadin](https://www.youtube.com/watch?v=5jRwAWjMoZU)
 - [Virtual Threads in Spring Boot](https://www.youtube.com/watch?v=7jU8_knPcZE)
 - [Using Groovy in Spring Boot](https://www.youtube.com/watch?v=A9x8a42tUlw)
 - [Multiple JDBC Clients - How to configure multiple DataSources in Spring](https://www.youtube.com/watch?v=ZKYFGuukhT4)
-- [What is the difference between JDBC Client and Spring Data JDBC?](https://www.youtube.com/watch?v=qLDrfebeXS0)
 <!-- YOUTUBE:END -->
