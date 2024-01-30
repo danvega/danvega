@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Looking back on my career as a Software Developer](https://www.youtube.com/watch?v=1aX4bO4EZSU)
+- [My Software Development Story began in High School](https://www.youtube.com/watch?v=eMNSxz_Et6M)
+- [I was named the 385th Java Champion](https://www.youtube.com/watch?v=eXkseVw-Fps)
 - [Calling aJava REST API using JDK Http Client](https://www.youtube.com/watch?v=MAw5Ku1OVFA)
 - [I have been named a Java Champion](https://www.youtube.com/watch?v=SZY4m0OjoS8)
-- [Spring Boot Rest Client Test Annotation](https://www.youtube.com/watch?v=CtjAwi6XByg)
-- [Spring Boot Rest Client - How to test HTTP calls using @RestClientTest](https://www.youtube.com/watch?v=jhhi03AIin4)
-- [Spring Boot Rest Client - How to change the underlying HTTP Client](https://www.youtube.com/watch?v=9M0NggD6Mbw)
 <!-- YOUTUBE:END -->
