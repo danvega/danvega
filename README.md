@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create your own custom Spring Boot Starter](https://www.youtube.com/watch?v=9m1bC57oWrc)
 - [Spring Boot Configuration Properties: Working with Lists &amp; Maps](https://www.youtube.com/watch?v=RiG9YORZOfc)
 - [Spring Boot Rest Client Interceptors](https://www.youtube.com/watch?v=nedhXAU8U4s)
 - [What is the JDK Http Client](https://www.youtube.com/watch?v=lAPwxM2hzVQ)
 - [Looking back on my career as a Software Developer](https://www.youtube.com/watch?v=1aX4bO4EZSU)
-- [My Software Development Story began in High School](https://www.youtube.com/watch?v=eMNSxz_Et6M)
 <!-- YOUTUBE:END -->
