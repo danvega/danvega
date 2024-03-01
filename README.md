@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring MVC Http Interfaces - How to Create a Rest Client with almost no code!](https://www.youtube.com/watch?v=aR580OCEp7w)
 - [5 Common Mistakes Spring Developers Make](https://www.youtube.com/watch?v=PbkROQPTBao)
 - [How to create your own custom Spring Boot Starter](https://www.youtube.com/watch?v=9m1bC57oWrc)
 - [Spring Boot Configuration Properties: Working with Lists &amp; Maps](https://www.youtube.com/watch?v=RiG9YORZOfc)
 - [Spring Boot Rest Client Interceptors](https://www.youtube.com/watch?v=nedhXAU8U4s)
-- [What is the JDK Http Client](https://www.youtube.com/watch?v=lAPwxM2hzVQ)
 <!-- YOUTUBE:END -->
