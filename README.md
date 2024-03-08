@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to learn Spring - A collection of resources for Learning Spring](https://www.youtube.com/watch?v=izBR3WQCN1Q)
 - [Java is slow and verbose &lpar;or so they say&rpar;](https://www.youtube.com/watch?v=lGAYLVk5HaY)
 - [Spring MVC Http Interfaces - How to Create a Rest Client with almost no code!](https://www.youtube.com/watch?v=aR580OCEp7w)
 - [5 Common Mistakes Spring Developers Make](https://www.youtube.com/watch?v=PbkROQPTBao)
 - [How to create your own custom Spring Boot Starter](https://www.youtube.com/watch?v=9m1bC57oWrc)
-- [Spring Boot Configuration Properties: Working with Lists &amp; Maps](https://www.youtube.com/watch?v=RiG9YORZOfc)
 <!-- YOUTUBE:END -->
