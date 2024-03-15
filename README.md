@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Upgrading your Java &amp; Spring Boot applications with OpenRewrite in IntelliJ](https://www.youtube.com/watch?v=e4R6AZHpAD8)
 - [Java Class Design: When to use a Primitive vs Reference Type](https://www.youtube.com/watch?v=bQG5lzlzo6I)
 - [Getting started with Spring Boot AOT + GraalVM Native Images](https://www.youtube.com/watch?v=FjRBHKUP-NA)
 - [How to learn Spring - A collection of resources for Learning Spring](https://www.youtube.com/watch?v=izBR3WQCN1Q)
 - [Java is slow and verbose &lpar;or so they say&rpar;](https://www.youtube.com/watch?v=lGAYLVk5HaY)
-- [Spring MVC Http Interfaces - How to Create a Rest Client with almost no code!](https://www.youtube.com/watch?v=aR580OCEp7w)
 <!-- YOUTUBE:END -->
