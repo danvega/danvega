@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tokens are the currency of LLMs](https://www.youtube.com/watch?v=2Oh-jDoSGbk)
 - [Building Intelligent AI apps in Java with Spring AI](https://www.youtube.com/watch?v=7-VlkItnSNU)
 - [Spring AI Introduction: Building AI Applications in Java with Spring](https://www.youtube.com/watch?v=yyvjT0v3lpY)
 - [Upgrading your Java &amp; Spring Boot applications with OpenRewrite in IntelliJ](https://www.youtube.com/watch?v=e4R6AZHpAD8)
 - [Java Class Design: When to use a Primitive vs Reference Type](https://www.youtube.com/watch?v=bQG5lzlzo6I)
-- [Getting started with Spring Boot AOT + GraalVM Native Images](https://www.youtube.com/watch?v=FjRBHKUP-NA)
 <!-- YOUTUBE:END -->
