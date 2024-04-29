@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting started with &lpar;Retrieval Augmented Generation&rpar; RAG in Java &amp; Spring AI](https://www.youtube.com/watch?v=4-rG2qsTrAs)
 - [Spring AI - Bring your own data by Stuffing the Prompt](https://www.youtube.com/watch?v=TL3cko6YkgU)
 - [Using Spring AI&#39;s Output Parsers to structure the response from LLMs](https://www.youtube.com/watch?v=CuIr3FiG_fc)
 - [Working with Prompts in Spring AI - Effectively Communicating with LLMs](https://www.youtube.com/watch?v=ACpLp2KXqgE)
 - [Tokens are the currency of LLMs](https://www.youtube.com/watch?v=2Oh-jDoSGbk)
-- [Building Intelligent AI apps in Java with Spring AI](https://www.youtube.com/watch?v=7-VlkItnSNU)
 <!-- YOUTUBE:END -->
