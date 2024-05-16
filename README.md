@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Started with GPT-4o in Java](https://www.youtube.com/watch?v=EDJLHWcFvpQ)
 - [Spring AI Functions - How to register custom Java functions with the Chat Client](https://www.youtube.com/watch?v=n7IvE1VSbvI)
 - [Building a Spring Boot Reference Documentation Assistant with Spring AI &amp; GPT-4](https://www.youtube.com/watch?v=ZoPVGrB8iHU)
 - [Getting started with &lpar;Retrieval Augmented Generation&rpar; RAG in Java &amp; Spring AI](https://www.youtube.com/watch?v=4-rG2qsTrAs)
 - [Spring AI - Bring your own data by Stuffing the Prompt](https://www.youtube.com/watch?v=TL3cko6YkgU)
-- [Using Spring AI&#39;s Output Parsers to structure the response from LLMs](https://www.youtube.com/watch?v=CuIr3FiG_fc)
 <!-- YOUTUBE:END -->
