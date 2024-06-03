@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring I/O 2024](/blog/2024/06/03/spring-io-2024)
 - [I&#39;m a Java Champion](/blog/2024/01/21/java-champion)
 - [What is Developer Relations and How do you define Developer Advocacy?](/blog/2024/01/15/developer-advocate)
 - [Happy New Year 2024](/blog/2024/01/01/happy-new-year-2024)
 - [2023 Year in Review](/blog/2023/12/30/2023-year-in-review)
-- [What&#39;s New in Spring Boot 3.2](/blog/2023/12/20/spring-boot-3-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
