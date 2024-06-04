@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting started with HTMX in Spring Boot with Thymeleaf](https://www.youtube.com/watch?v=cjL0n1NApRA)
 - [Getting Started with GPT-4o in Spring AI with Chat and Vision Capabilities](https://www.youtube.com/watch?v=y90CkHvDGls)
 - [Getting Started with GPT-4o in Java](https://www.youtube.com/watch?v=EDJLHWcFvpQ)
 - [Spring AI Functions - How to register custom Java functions with the Chat Client](https://www.youtube.com/watch?v=n7IvE1VSbvI)
 - [Building a Spring Boot Reference Documentation Assistant with Spring AI &amp; GPT-4](https://www.youtube.com/watch?v=ZoPVGrB8iHU)
-- [Getting started with &lpar;Retrieval Augmented Generation&rpar; RAG in Java &amp; Spring AI](https://www.youtube.com/watch?v=4-rG2qsTrAs)
 <!-- YOUTUBE:END -->
