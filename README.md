@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Security Custom Login Form &lpar;Using Tailwind CSS&rpar;](https://www.youtube.com/watch?v=ZpBayFcvtdM)
 - [How to add Tailwind CSS to your Spring Boot Application](https://www.youtube.com/watch?v=6_6AIzxPXvQ)
 - [Spring Boot Rest Client Testing with @RestClientTest Issue &amp; Work-around](https://www.youtube.com/watch?v=-ChpDCIjyh0)
 - [Building a ChatGPT Clone in Java with HTMX, Spring Boot, and Spring AI](https://www.youtube.com/watch?v=jJ63tedBAzI)
 - [What&#39;s new in Spring AI 1.0.0 M1](https://www.youtube.com/watch?v=De9a-TaJImI)
-- [Spring Initializr Remembers your previous selections](https://www.youtube.com/watch?v=FidObW4SJp8)
 <!-- YOUTUBE:END -->
