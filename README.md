@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Started with Ollama, Llama 3.1 and Spring AI](https://www.youtube.com/watch?v=dffEF9ORVUg)
 - [Spring Framework 6.2 Supports Rendering Multiple Fragments](https://www.youtube.com/watch?v=Di4XaajLNNk)
 - [An overview of the clients available in Spring Boot](https://www.youtube.com/watch?v=KNK9FJujm48)
 - [Spring Security Custom Login Form &lpar;Using Tailwind CSS&rpar;](https://www.youtube.com/watch?v=ZpBayFcvtdM)
 - [How to add Tailwind CSS to your Spring Boot Application](https://www.youtube.com/watch?v=6_6AIzxPXvQ)
-- [Spring Boot Rest Client Testing with @RestClientTest Issue &amp; Work-around](https://www.youtube.com/watch?v=-ChpDCIjyh0)
 <!-- YOUTUBE:END -->
