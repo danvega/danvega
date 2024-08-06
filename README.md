@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 3.5 Sonnet - AI Assistance with Speed and Artifacts](/blog/2024/08/06/claude-sonnet-35)
 - [Harnessing Local LLMs - A Practical Guide to Ollama and Open Web UI](/blog/2024/08/05/ollama-web-ui)
 - [Java Method References - A Beginner&#39;s Guide](/blog/2024/08/01/java-method-references)
 - [How to add Tailwind CSS to your Spring Boot Application](/blog/2024/07/18/spring-boot-tailwind)
 - [Getting Started with Open AI&#39;s GPT-4o in Java](/blog/2024/07/10/java-gpt-4o)
-- [What&#39;s New in Spring AI 1.0.0 M1](/blog/2024/06/20/spring-ai-m1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
