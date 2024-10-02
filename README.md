@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Framework 7.0: Major Update Coming November 2025](https://www.youtube.com/watch?v=SYq4x8rHJQw)
 - [JTE: Spring Boot&#39;s New Templating Engine - Quick Start Guide](https://www.youtube.com/watch?v=KoWgHSWA1cc)
 - [Java Method References - A Beginner&#39;s Guide](https://www.youtube.com/watch?v=DELCbBuCHHE)
 - [Getting Started with the Web Client in Spring Boot &amp; Writing Tests](https://www.youtube.com/watch?v=0jyKgEz0Yn8)
 - [Getting Started with Ollama and Web UI](https://www.youtube.com/watch?v=BzFafshQkWw)
-- [Getting Started with Ollama, Llama 3.1 and Spring AI](https://www.youtube.com/watch?v=dffEF9ORVUg)
 <!-- YOUTUBE:END -->
