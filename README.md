@@ -15,10 +15,10 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Dynamic Task Manager with Spring Boot, JTE, and HTMX](/blog/2024/10/06/spring-boot-jte-htmx)
+- [Getting started with Java Template Engine &lpar;JTE&rpar; layouts in Spring Boot](/blog/2024/10/03/jte-layouts)
 - [Introducing JTE: The Latest Template Engine in Spring Boot](/blog/2024/10/01/hello-jte)
 - [What&#39;s new in JDK 23](/blog/2024/09/12/jdk-23-first-look)
 - [Supercharge Your Spring Apps with AI - A Beginner&#39;s Guide to Claude 3.5 Sonnet and Spring AI](/blog/2024/08/07/claude-sonnet-spring-ai)
-- [Claude 3.5 Sonnet - AI Assistance with Speed and Artifacts](/blog/2024/08/06/claude-sonnet-35)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
