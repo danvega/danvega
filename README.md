@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Using Multiple LLMs in Java with Spring AI](https://www.youtube.com/watch?v=bK1MTlEDQvk)
 - [Conversational History in Java based Generative AI Applications](https://www.youtube.com/watch?v=6VdM1MOOMrw)
 - [Building a Streaming Chatbot with Spring Boot and Spring AI](https://www.youtube.com/watch?v=q2p0mG4RICM)
 - [Building Dynamic Forms with Spring Boot and Java Template Engine &lpar;JTE&rpar;](https://www.youtube.com/watch?v=ifnv4kGtZgo)
 - [Building a Dynamic Task Manager with Spring Boot, JTE, and HTMX](https://www.youtube.com/watch?v=kFksiDRZ824)
-- [JTE Templates in Spring Boot: Create Reusable Layouts Like a Pro](https://www.youtube.com/watch?v=dWe-C3-YQEg)
 <!-- YOUTUBE:END -->
