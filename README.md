@@ -14,8 +14,8 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling Multiple LLMs with Spring AI: A Practical Guide](/blog/2024/10/14/spring-ai-multiple-llms)
 - [Building Generative AI Applications in Java: From Simple Scripts to Spring Boot](/blog/2024/10/15/ai-java-developers)
+- [Calling Multiple LLMs with Spring AI: A Practical Guide](/blog/2024/10/14/spring-ai-multiple-llms)
 - [Building Intelligent Chatbots with Spring AI: Implementing Chat Memory](/blog/2024/10/11/spring-ai-chat-memory)
 - [Building a Streaming Chat Bot with Spring Boot and Spring AI](/blog/2024/10/08/spring-ai-streaming-chatbot)
 - [Building Dynamic Forms with Spring Boot and JTE: A Practical Guide](/blog/2024/10/07/jte-forms)
