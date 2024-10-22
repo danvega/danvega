@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java + RAG: Create an AI-Powered Financial Advisor using Spring AI 💡](https://www.youtube.com/watch?v=6Pgmr7xMjiY)
 - [Generative AI for Java Developers: From Zero to Hero 🦸](https://www.youtube.com/watch?v=uoOwVWVl_eU)
 - [Using Multiple LLMs in Java with Spring AI](https://www.youtube.com/watch?v=bK1MTlEDQvk)
 - [Conversational History in Java based Generative AI Applications](https://www.youtube.com/watch?v=6VdM1MOOMrw)
 - [Building a Streaming Chatbot with Spring Boot and Spring AI](https://www.youtube.com/watch?v=q2p0mG4RICM)
-- [Building Dynamic Forms with Spring Boot and Java Template Engine &lpar;JTE&rpar;](https://www.youtube.com/watch?v=ifnv4kGtZgo)
 <!-- YOUTUBE:END -->
