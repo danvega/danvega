@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot Environment Variables Explained &lpar;Secure Your API Keys!&rpar;](https://www.youtube.com/watch?v=rQV76dufxz4)
 - [Spring AI Workshop Updates](https://www.youtube.com/watch?v=9DRdXgYfjXg)
 - [Spring Security + OAuth2 + JTE: Login System Tutorial](https://www.youtube.com/watch?v=f1h4GkhxMp8)
 - [Stream and Chill](https://www.youtube.com/watch?v=e1c2GCL1vOM)
 - [Java + RAG: Create an AI-Powered Financial Advisor using Spring AI 💡](https://www.youtube.com/watch?v=6Pgmr7xMjiY)
-- [Generative AI for Java Developers: From Zero to Hero 🦸](https://www.youtube.com/watch?v=uoOwVWVl_eU)
 <!-- YOUTUBE:END -->
