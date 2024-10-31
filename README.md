@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Understanding Tokens in AI: How Much Are Your LLM Requests REALLY Costing You? 💰](https://www.youtube.com/watch?v=ZUCVRppXPSc)
 - [&quot;Spring Boot REST Client Logging Made Easy](https://www.youtube.com/watch?v=l35P5GylXN8)
 - [Spring Boot Environment Variables Explained &lpar;Secure Your API Keys!&rpar;](https://www.youtube.com/watch?v=rQV76dufxz4)
 - [Spring AI Workshop Updates](https://www.youtube.com/watch?v=9DRdXgYfjXg)
 - [Spring Security + OAuth2 + JTE: Login System Tutorial](https://www.youtube.com/watch?v=f1h4GkhxMp8)
-- [Stream and Chill](https://www.youtube.com/watch?v=e1c2GCL1vOM)
 <!-- YOUTUBE:END -->
