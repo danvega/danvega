@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot + JTE in Production: Solving Common Deployment Issues 🚀](https://www.youtube.com/watch?v=DuVxoVc_vD4)
 - [The AI Productivity Hack Nobody&#39;s Talking About](https://www.youtube.com/watch?v=bexmnv-l8ps)
 - [Spring Initializr Bookmarks Feature](https://www.youtube.com/watch?v=EIUNHt7rZzs)
 - [Spring Boot GraphQL Tutorial: Simplify Your API with Query by Example](https://www.youtube.com/watch?v=J8vC8RflPPY)
 - [MacBook Pro Setup](https://www.youtube.com/watch?v=t8ry7PkYe6M)
-- [Spring Data JPA Query By Example: Write 10x Less Code for Dynamic Searches](https://www.youtube.com/watch?v=NGVWHdGNbiI)
 <!-- YOUTUBE:END -->
