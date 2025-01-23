@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Supercharge Your Spring GraphQL APIs: Advanced Performance Tips &lpar;2025&rpar;](https://www.youtube.com/watch?v=6oOKpVn4Qqg)
 - [Spring Boot Tutorial: Mixing XML and Annotation Configuration](https://www.youtube.com/watch?v=6arSdLciC_k)
 - [I Built a Spring Boot Extension for My Favorite Mac App &lpar;Raycast Tutorial&rpar;](https://www.youtube.com/watch?v=NIVBxoK-APU)
 - [Spring Office Hours: S3E44 - 2024 Year in Review: Spring, Java, and Beyond! 🎉](https://www.youtube.com/watch?v=I-_EpU5QKq0)
 - [Spring Boot + JTE in Production: Solving Common Deployment Issues 🚀](https://www.youtube.com/watch?v=DuVxoVc_vD4)
-- [The AI Productivity Hack Nobody&#39;s Talking About](https://www.youtube.com/watch?v=bexmnv-l8ps)
 <!-- YOUTUBE:END -->
