@@ -24,9 +24,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Gemini Flash 2.0: The Most Cost-Effective AI Model for Production Apps?](https://www.youtube.com/watch?v=mMLaWFx2SN8)
 - [How to Use DeepSeek&#39;s R1 Model in Java &amp; Spring | Local &amp; API Implementation](https://www.youtube.com/watch?v=TWlBGA3x3cQ)
 - [Run ChatGPT-Level AI for FREE on Your Computer | Deepseek R1 Tutorial](https://www.youtube.com/watch?v=DDjHLQKtV-k)
 - [Passwordless Login in Spring Security 6.4 | One-Time Token Tutorial](https://www.youtube.com/watch?v=2MDrkWGUsFE)
 - [How I Built a Tool to Auto-Generate GitHub Documentation with LLMs](https://www.youtube.com/watch?v=QYchuz6nBR8)
-- [How to Send Emails in Java Using SendGrid &lpar;Beginner Tutorial&rpar;](https://www.youtube.com/watch?v=i8Hvvo4ZITg)
 <!-- YOUTUBE:END -->
