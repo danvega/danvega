@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -12,8 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.danvega.dev/feed"
-          disable_sort: false
           max_post_count: 5
-          template: "$newline| $date | [$title](https://www.danvega.dev$url) |"
-          committer_email: "your-email@example.com"
-          committer_username: "your-username"
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title](https://www.danvega.dev$link)"
+          date_format: "yyyy-MM-dd"
