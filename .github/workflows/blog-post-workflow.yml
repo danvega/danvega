@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
@@ -14,7 +14,7 @@ jobs:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          feed_names: false
-          disable_item_validation: true
-          custom_tags: "item.link"
-          item_exec: "if(item.link.startsWith('/blog/')) { return 'https://www.danvega.dev' + item.link; }"
+          remove_duplicates: true
+          template: "- [$title](https://www.danvega.dev/blog/$slug)"
+          date_format: "yyyy-MM-dd"
+          extract_slug: "(?<=\/blog\/).*"
