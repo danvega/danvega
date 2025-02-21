@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # Runs every hour
   workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -14,7 +15,3 @@ jobs:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          remove_duplicates: true
-          template: "- [$title](https://www.danvega.dev/blog/$slug)"
-          date_format: "yyyy-MM-dd"
-          extract_slug: "(?<=\/blog\/).*"
