@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
           disable_item_validation: true
-          item_exec: "item.url = 'https://www.danvega.dev' + item.link; return item;"
+          item_exec: "item.url = 'https://www.danvega.dev' + item.link; item;"
