@@ -4,7 +4,7 @@ on:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -18,6 +18,5 @@ jobs:
         with:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
-          custom_tags: "title,link"
-          template: "- [$title](https://www.danvega.dev$link)"
           disable_item_validation: true
+          item_exec: "item.url = 'https://www.danvega.dev' + item.link; return item;"
