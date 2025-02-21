@@ -1,21 +1,23 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
-          comment_tag_name: "BLOG-POST-LIST"
-          remove_duplicate_posts: true
-          rebuild_feed: true 
-          transform_titles: "$title"
-          transform_links: "https://www.danvega.dev$link"
+          custom_tags: "title,link"
+          template: "- [$title](https://www.danvega.dev$link)"
+          disable_item_validation: true
