@@ -14,5 +14,7 @@ jobs:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- [$title](https://www.danvega.dev$link)"
-          date_format: "yyyy-MM-dd"
+          feed_names: false
+          disable_item_validation: true
+          custom_tags: "item.link"
+          item_exec: "if(item.link.startsWith('/blog/')) { return 'https://www.danvega.dev' + item.link; }"
