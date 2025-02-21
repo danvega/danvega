@@ -14,11 +14,12 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-| Building a Spring Security Login Form with JTE | [Read](/blog/2024/10/24/spring-boot-oauth-demo) |
-| Getting Started with Spring AI and RAG: A Practical Guide | [Read](/blog/2024/10/22/getting-started-with-spring-ai-rag) |
-| Building Generative AI Applications in Java: From Simple Scripts to Spring Boot | [Read](/blog/2024/10/15/ai-java-developers) |
-| Calling Multiple LLMs with Spring AI: A Practical Guide | [Read](/blog/2024/10/14/spring-ai-multiple-llms) |
-| Building Intelligent Chatbots with Spring AI: Implementing Chat Memory | [Read](/blog/2024/10/11/spring-ai-chat-memory) |<!-- BLOG-POST-LIST:END -->
+- [Building a Spring Security Login Form with JTE](/blog/spring-boot-oauth-demo)
+- [Getting Started with Spring AI and RAG: A Practical Guide](/blog/getting-started-with-spring-ai-rag)
+- [Building Generative AI Applications in Java: From Simple Scripts to Spring Boot](/blog/ai-java-developers)
+- [Calling Multiple LLMs with Spring AI: A Practical Guide](/blog/spring-ai-multiple-llms)
+- [Building Intelligent Chatbots with Spring AI: Implementing Chat Memory](/blog/spring-ai-chat-memory)
+<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
