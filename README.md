@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-| 2024-00-24 | [Building a Spring Security Login Form with JTE](https://www.danvega.dev$link) |
-| 2024-00-22 | [Getting Started with Spring AI and RAG: A Practical Guide](https://www.danvega.dev$link) |
-| 2024-00-15 | [Building Generative AI Applications in Java: From Simple Scripts to Spring Boot](https://www.danvega.dev$link) |
-| 2024-00-14 | [Calling Multiple LLMs with Spring AI: A Practical Guide](https://www.danvega.dev$link) |
-| 2024-00-11 | [Building Intelligent Chatbots with Spring AI: Implementing Chat Memory](https://www.danvega.dev$link) |<!-- BLOG-POST-LIST:END -->
+| Thu Oct 24 2024 5:00 PM | [Building a Spring Security Login Form with JTE](https://www.danvega.dev/blog/spring-boot-oauth-demo) |
+| Tue Oct 22 2024 9:00 AM | [Getting Started with Spring AI and RAG: A Practical Guide](https://www.danvega.dev/blog/getting-started-with-spring-ai-rag) |
+| Tue Oct 15 2024 9:00 AM | [Building Generative AI Applications in Java: From Simple Scripts to Spring Boot](https://www.danvega.dev/blog/ai-java-developers) |
+| Mon Oct 14 2024 9:00 AM | [Calling Multiple LLMs with Spring AI: A Practical Guide](https://www.danvega.dev/blog/spring-ai-multiple-llms) |
+| Fri Oct 11 2024 9:00 AM | [Building Intelligent Chatbots with Spring AI: Implementing Chat Memory](https://www.danvega.dev/blog/spring-ai-chat-memory) |<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
