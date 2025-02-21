@@ -12,3 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.danvega.dev/feed"
+          custom_tags: "title,link,date"
+          date_format: "yyyy-MM-dd"
+          template: "$newline| $date | [$title](https://www.danvega.dev$link) |"
+          max_post_count: 5
