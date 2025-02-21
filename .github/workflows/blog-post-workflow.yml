@@ -15,6 +15,7 @@ jobs:
           feed_list: "https://www.danvega.dev/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          disable_sort: false
-          custom_tags: "title,link,guid"
-          template: "- [$title](https://www.danvega.dev$link)"
+          remove_duplicate_posts: true
+          rebuild_feed: true 
+          transform_titles: "$title"
+          transform_links: "https://www.danvega.dev$link"
