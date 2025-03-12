@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Use Google Gemini Flash 2.0 with Just an API Key in Spring AI](https://www.youtube.com/watch?v=5zhNfPH-jps)
 - [Model Context Protocol &lpar;MCP&rpar; Explained: How to Give AI Access to Your Files, Web Searches &amp; More](https://www.youtube.com/watch?v=nNLshWCoe0o)
 - [Google Gemini Flash 2.0: The Most Cost-Effective AI Model for Production Apps?](https://www.youtube.com/watch?v=mMLaWFx2SN8)
 - [How to Use DeepSeek&#39;s R1 Model in Java &amp; Spring | Local &amp; API Implementation](https://www.youtube.com/watch?v=TWlBGA3x3cQ)
 - [Run ChatGPT-Level AI for FREE on Your Computer | Deepseek R1 Tutorial](https://www.youtube.com/watch?v=DDjHLQKtV-k)
-- [Passwordless Login in Spring Security 6.4 | One-Time Token Tutorial](https://www.youtube.com/watch?v=2MDrkWGUsFE)
 <!-- YOUTUBE:END -->
