@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Level Up Your Java Streams with JDK 24&#39;s New Gatherers Feature &lpar;Practical Tutorial&rpar;](https://www.youtube.com/watch?v=hIbCu1slooE)
 - [Build your own MCP Server in Java](https://www.youtube.com/watch?v=J4d1GWcL5gA)
 - [Build Your Own MCP Server in Under 15 Minutes | Spring AI Tutorial](https://www.youtube.com/watch?v=w5YVHG1j3Co)
 - [Learn.java - A new way to learn Java from Oracle](https://www.youtube.com/watch?v=FXg26Nr4nic)
 - [How to Implement Few-Shot Prompting &lpar;Beginner-Friendly Tutorial&rpar;](https://www.youtube.com/watch?v=QZyYFyx_4RY)
-- [Save Money on AI: How to Track Token Usage with Spring Boot, Prometheus &amp; Grafana](https://www.youtube.com/watch?v=pBVKkcBhw6I)
 <!-- YOUTUBE:END -->
