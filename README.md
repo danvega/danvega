@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Spring Security Login Form with JTE](https://www.danvega.dev/blog/spring-boot-oauth-demo)
-- [Getting Started with Spring AI and RAG: A Practical Guide](https://www.danvega.dev/blog/getting-started-with-spring-ai-rag)
-- [Building Generative AI Applications in Java: From Simple Scripts to Spring Boot](https://www.danvega.dev/blog/ai-java-developers)
-- [Calling Multiple LLMs with Spring AI: A Practical Guide](https://www.danvega.dev/blog/spring-ai-multiple-llms)
-- [Building Intelligent Chatbots with Spring AI: Implementing Chat Memory](https://www.danvega.dev/blog/spring-ai-chat-memory)<!-- BLOG-POST-LIST:END -->
+- [Running AI Models Locally with Docker and Spring AI](https://www.danvega.dev/blog/docker-model-runner)
+- [Creating Your First Model Context Protocol (MCP) Server in Java](https://www.danvega.dev/blog/creating-your-first-mcp-server-java)
+- [Stream Gatherers in JDK 24: Building Custom Intermediate Operations for the Stream API](https://www.danvega.dev/blog/stream-gatherers)
+- [Supercharge Your LLM Applications with Model Context Protocol (MCP)](https://www.danvega.dev/blog/model-context-protocol-introduction)
+- [AI-Powered Dev Hacks at ConFoo 2025](https://www.danvega.dev/blog/ai-powered-dev-hacks-confoo-2025)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
