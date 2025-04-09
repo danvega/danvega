@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 24's Major Improvement: Virtual Threads Without Pinning](https://www.danvega.dev/blog/jdk-24-virtual-threads-without-pinning)
 - [Running AI Models Locally with Docker and Spring AI](https://www.danvega.dev/blog/docker-model-runner)
 - [Creating Your First Model Context Protocol (MCP) Server in Java](https://www.danvega.dev/blog/creating-your-first-mcp-server-java)
 - [Stream Gatherers in JDK 24: Building Custom Intermediate Operations for the Stream API](https://www.danvega.dev/blog/stream-gatherers)
-- [Supercharge Your LLM Applications with Model Context Protocol (MCP)](https://www.danvega.dev/blog/model-context-protocol-introduction)
-- [AI-Powered Dev Hacks at ConFoo 2025](https://www.danvega.dev/blog/ai-powered-dev-hacks-confoo-2025)<!-- BLOG-POST-LIST:END -->
+- [Supercharge Your LLM Applications with Model Context Protocol (MCP)](https://www.danvega.dev/blog/model-context-protocol-introduction)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
