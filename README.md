@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Breaking News: Spring AI Going GA in May 2025! 1.0.0-M7 First Look](https://www.youtube.com/watch?v=7ZqCwbc-EUk)
 - [Virtual Threads in JDK-24: The Synchronized Block Breakthrough Explained](https://www.youtube.com/watch?v=V4gsffMge7E)
 - [Run AI Models Locally: Zero API Keys, Zero Fees with Docker Desktop Model Runner](https://www.youtube.com/watch?v=6E6JFLMHcoQ)
 - [JDK 24 Stream Gatherers](https://www.youtube.com/watch?v=Uz5vDHzn59s)
 - [How to Level Up Your Java Streams with JDK 24&#39;s New Gatherers Feature &lpar;Practical Tutorial&rpar;](https://www.youtube.com/watch?v=hIbCu1slooE)
-- [Build your own MCP Server in Java](https://www.youtube.com/watch?v=J4d1GWcL5gA)
 <!-- YOUTUBE:END -->
