@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Meet Your New AI Pair Programmer - Claude Code Changes Everything](https://www.youtube.com/watch?v=-jYlp2oJh_o)
 - [How I Automated My Newsletter Publishing with a Custom Beehive MCP Server](https://www.youtube.com/watch?v=bP9dhrI1wKA)
 - [AI for Java Developers: Full Course / Workshop on Getting Started with Spring AI](https://www.youtube.com/watch?v=FzLABAppJfM)
 - [Live Streaming about AI](https://www.youtube.com/watch?v=3-FVs8Pk6vM)
 - [I used Windsurf to build a simple Java / Spring Application](https://www.youtube.com/watch?v=XkRM4eO885I)
-- [Beyond Auto-Complete: Junie Is Your Autonomous Coding Partner in JetBrains IDEs](https://www.youtube.com/watch?v=fcbSG8lm7So)
 <!-- YOUTUBE:END -->
