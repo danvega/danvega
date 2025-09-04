@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring AI Community](https://www.youtube.com/shorts/ueGEfejLSDY)
 - [Spring Boot Tutorial: Resolving Bean Ambiguity Like a Pro](https://www.youtube.com/watch?v=jCjHAD94c8A)
 - [FREE Alternative to Claude Code? Testing Google Gemini CLI for the First Time](https://www.youtube.com/watch?v=IRqMr-u8PMQ)
 - [Spring AI Advisors: Intercept &amp; Enhance Every AI Call &lpar;AOP for AI!&rpar;](https://www.youtube.com/watch?v=1MGiDBI2Ci4)
 - [Meet Your New AI Pair Programmer - Claude Code Changes Everything](https://www.youtube.com/watch?v=-jYlp2oJh_o)
-- [How I Automated My Newsletter Publishing with a Custom Beehive MCP Server](https://www.youtube.com/watch?v=bP9dhrI1wKA)
 <!-- YOUTUBE:END -->
