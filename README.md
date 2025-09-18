@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop Using Outdated AI! Add Web Search to Your Spring AI Applications &lpar;OpenAI Tutorial&rpar;](https://www.youtube.com/watch?v=DQt95vgtgFw)
 - [Spring AI Logging Made Simple: See Every Request &amp; Response to Your LLM](https://www.youtube.com/watch?v=R_BXvIKrN4c)
 - [Groovy Meets AI: Building LLM Applications with Spring AI](https://www.youtube.com/watch?v=rQwm9--DMIA)
 - [Spring AI Chat Options: Control Your LLM&#39;s Behavior for ANY Use Case](https://www.youtube.com/watch?v=MrC-xDvkJlE)
 - [Spring AI Community](https://www.youtube.com/shorts/ueGEfejLSDY)
-- [Spring Boot Tutorial: Resolving Bean Ambiguity Like a Pro](https://www.youtube.com/watch?v=jCjHAD94c8A)
 <!-- YOUTUBE:END -->
