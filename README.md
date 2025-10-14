@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JDK 24's Major Improvement: Virtual Threads Without Pinning](https://www.danvega.dev/blog/jdk-24-virtual-threads-without-pinning)
-- [Running AI Models Locally with Docker and Spring AI](https://www.danvega.dev/blog/docker-model-runner)
-- [Creating Your First Model Context Protocol (MCP) Server in Java](https://www.danvega.dev/blog/creating-your-first-mcp-server-java)
-- [Stream Gatherers in JDK 24: Building Custom Intermediate Operations for the Stream API](https://www.danvega.dev/blog/stream-gatherers)
-- [Supercharge Your LLM Applications with Model Context Protocol (MCP)](https://www.danvega.dev/blog/model-context-protocol-introduction)<!-- BLOG-POST-LIST:END -->
+- [Evolving your API without Versioning in GraphQL](https://www.danvega.devhttps://www.danvega.dev/blog/2025/09/30/api-versioning-with-graphql)
+- [First-Class API Versioning in Spring Boot 4](https://www.danvega.devhttps://www.danvega.dev/blog/2025/09/25/spring-boot-4-api-versioning)
+- [My CYC 2025 Demo: Why Building MCP Servers in Java Just Got Ridiculously Simple](https://www.danvega.devhttps://www.danvega.dev/blog/2025/09/24/cyc-mcp-server-spring-ai)
+- [Spring Boot 3.x Features: Complete Guide to Major Updates (2022-2025)](https://www.danvega.devhttps://www.danvega.dev/blog/2025/09/17/spring-boot-3-features)
+- [JDK 24's Major Improvement: Virtual Threads Without Pinning](https://www.danvega.devhttps://www.danvega.dev/blog/2025/04/09/jdk-24-virtual-threads-without-pinning)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
