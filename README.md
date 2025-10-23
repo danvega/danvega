@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google&#39;s FREE Vibe Coding Studio Feature inside of AI Studio](https://www.youtube.com/watch?v=11L34s72s6U)
 - [Build AI&#39;s Future: Model Context Protocol &lpar;MCP&rpar; with Spring AI in Minutes](https://www.youtube.com/watch?v=MarSC2dFA9g)
 - [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM)
 - [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY &lpar;No More Vertex!&rpar;](https://www.youtube.com/watch?v=PibEG9A6AeE)
 - [Stop Using Outdated AI! Add Web Search to Your Spring AI Applications &lpar;OpenAI Tutorial&rpar;](https://www.youtube.com/watch?v=DQt95vgtgFw)
-- [Spring AI Logging Made Simple: See Every Request &amp; Response to Your LLM](https://www.youtube.com/watch?v=R_BXvIKrN4c)
 <!-- YOUTUBE:END -->
