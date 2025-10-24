@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Plan Mode is Claude Code&#39;s Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84)
 - [Claude Code Web &amp; iOS: Fix Bugs and Deploy Code from Anywhere](https://www.youtube.com/watch?v=piu3UK20lI8)
 - [Google&#39;s FREE Vibe Coding Studio Feature inside of AI Studio](https://www.youtube.com/watch?v=11L34s72s6U)
 - [Build AI&#39;s Future: Model Context Protocol &lpar;MCP&rpar; with Spring AI in Minutes](https://www.youtube.com/watch?v=MarSC2dFA9g)
 - [Build a Smart Chat Memory Advisor in Spring AI That Auto-Compacts Context](https://www.youtube.com/watch?v=hyK20bn38lM)
-- [Spring AI 1.1.0 is HERE! Google Gemini Integration Made EASY &lpar;No More Vertex!&rpar;](https://www.youtube.com/watch?v=PibEG9A6AeE)
 <!-- YOUTUBE:END -->
