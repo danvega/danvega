@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo)
 - [Spring Framework 7: Dynamic Bean Registration Made Easy &lpar;NEW BeanRegistrar Interface&rpar;](https://www.youtube.com/watch?v=yh760wTFL_4)
 - [How to Secure your MCP Servers with Spring Security 🔐 &amp; Spring AI 🤖](https://www.youtube.com/watch?v=Xiw4bMD3SOg)
 - [Why Plan Mode is Claude Code&#39;s Most Underrated Feature](https://www.youtube.com/watch?v=QlWyrYuEC84)
 - [Claude Code Web &amp; iOS: Fix Bugs and Deploy Code from Anywhere](https://www.youtube.com/watch?v=piu3UK20lI8)
-- [Google&#39;s FREE Vibe Coding Studio Feature inside of AI Studio](https://www.youtube.com/watch?v=11L34s72s6U)
 <!-- YOUTUBE:END -->
