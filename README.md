@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ)
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M)
 - [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8)
 - [Testing your REST APIs in Spring Boot 4 with the new RestTestClient](https://www.youtube.com/watch?v=dPM8n0uNhes)
 - [API Versioning Made Simple with Spring Boot 4.0](https://www.youtube.com/watch?v=qjo2tYf01xo)
-- [Spring Framework 7: Dynamic Bean Registration Made Easy &lpar;NEW BeanRegistrar Interface&rpar;](https://www.youtube.com/watch?v=yh760wTFL_4)
 <!-- YOUTUBE:END -->
