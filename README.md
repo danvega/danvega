@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Debugging Spring Security](https://www.youtube.com/shorts/wRSvIelvpEM)
 - [Spring Boot 4&#39;s Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0)
 - [Jackson 3 Support is HERE: What&#39;s New in Spring Framework 7 &amp; Spring Boot 4](https://www.youtube.com/watch?v=4cvP_qroLH4)
 - [Build AI-Powered Apps with MCP Clients in Spring AI](https://www.youtube.com/watch?v=TSFkdlreRMQ)
 - [Creating REST Clients in Spring Boot 4 Just Got EASIER!](https://www.youtube.com/watch?v=TEd5e4Thu7M)
-- [⛔ Stop NullPointerExceptions Before Production in Spring Boot 4 with Null Safety](https://www.youtube.com/watch?v=QlGnaRoujL8)
 <!-- YOUTUBE:END -->
