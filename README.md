@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Wrote a Book! Fundamentals of Software Engineering is Here](https://www.youtube.com/watch?v=C7hPLFUaSZA)
 - [Spring Boot 4 JMS Client: The Fluent API You&#39;ve Been Waiting For](https://www.youtube.com/watch?v=91xVrWlzIe4)
 - [Enable Web Security Debug Configuration](https://www.youtube.com/shorts/YccX4GgQcD0)
 - [Spring Data AOT Repositories: Better Performance AND Developer Experience](https://www.youtube.com/watch?v=s_kmDbitE8s)
 - [Debugging Spring Security](https://www.youtube.com/shorts/wRSvIelvpEM)
-- [Spring Boot 4&#39;s Built-in Resilience Features: Say Goodbye to External Dependencies!](https://www.youtube.com/watch?v=CT1wGTwOfg0)
 <!-- YOUTUBE:END -->
