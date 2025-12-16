@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Security 7 Adds Multi-Factor Authentication &lpar;MFA&rpar;](https://www.youtube.com/watch?v=KmNAqlaKwjw)
 - [Spring Boot 4 Modularization Explained: What you need to know](https://www.youtube.com/watch?v=kTLuhE7_jGU)
 - [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM)
 - [I Wrote a Book! Fundamentals of Software Engineering is Here](https://www.youtube.com/watch?v=C7hPLFUaSZA)
 - [Spring Boot 4 JMS Client: The Fluent API You&#39;ve Been Waiting For](https://www.youtube.com/watch?v=91xVrWlzIe4)
-- [Enable Web Security Debug Configuration](https://www.youtube.com/shorts/YccX4GgQcD0)
 <!-- YOUTUBE:END -->
