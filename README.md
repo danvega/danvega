@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security 7 Multi-Factor Authentication: Complete Tutorial with @EnableMultiFactorAuthentication](https://www.danvega.devhttps://www.danvega.dev/blog/2025/12/16/spring-security-7-multi-factor-authentication)
 - [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.danvega.devhttps://www.danvega.dev/blog/2025/12/10/mock-vs-rest)
 - [Spring JMS Client: A Complete Guide to JmsClient in Spring Boot 4](https://www.danvega.devhttps://www.danvega.dev/blog/2025/12/05/jms-client)
 - [Spring Data AOT Repositories: Faster Startup and Build-Time Query Validation](https://www.danvega.devhttps://www.danvega.dev/blog/2025/11/25/spring-data-aot-repositories)
-- [What's New in Spring Framework 7 and Spring Boot 4](https://www.danvega.devhttps://www.danvega.dev/blog/2025/11/24/spring-boot-4-is-here)
-- [Stop NullPointerExceptions Before Production with Spring Boot 4's Null Safety](https://www.danvega.devhttps://www.danvega.dev/blog/2025/11/05/spring-boot-4-null-safety)<!-- BLOG-POST-LIST:END -->
+- [What's New in Spring Framework 7 and Spring Boot 4](https://www.danvega.devhttps://www.danvega.dev/blog/2025/11/24/spring-boot-4-is-here)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
