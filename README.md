@@ -23,7 +23,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=uQ1CjpHEGGU)
+- [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8)
 - [Build a Spring Boot 4 REST API in Minutes](https://www.youtube.com/watch?v=klnxzL8oQdM)
 - [Loading Resources in Spring: 3 Methods Every Developer Should Know](https://www.youtube.com/watch?v=Hmcgwj65Unw)
 - [Spring Security 7 Adds Multi-Factor Authentication &lpar;MFA&rpar;](https://www.youtube.com/watch?v=KmNAqlaKwjw)
