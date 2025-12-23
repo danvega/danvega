@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Office Hours: S4E35 - Year in Review](https://www.youtube.com/watch?v=uQ1CjpHEGGU)
 - [Build a Spring Boot 4 REST API in Minutes](https://www.youtube.com/watch?v=klnxzL8oQdM)
 - [Loading Resources in Spring: 3 Methods Every Developer Should Know](https://www.youtube.com/watch?v=Hmcgwj65Unw)
 - [Spring Security 7 Adds Multi-Factor Authentication &lpar;MFA&rpar;](https://www.youtube.com/watch?v=KmNAqlaKwjw)
 - [Spring Boot 4 Modularization Explained: What you need to know](https://www.youtube.com/watch?v=kTLuhE7_jGU)
-- [MockMvcTester vs RestTestClient: Which one Should You Use in Spring Boot 4?](https://www.youtube.com/watch?v=xWcqvrpj2PM)
 <!-- YOUTUBE:END -->
