@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc)
 - [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg)
 - [Claude Code Just Fixed MCP&#39;s Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0)
 - [Claude Code&#39;s Secret Weapon: Access Multiple Directories in One Session](https://www.youtube.com/watch?v=Ac0FMtVYKkA)
 - [MCP Elicitations in Spring AI: Request Missing Information from Users](https://www.youtube.com/watch?v=JrAllAJf7L4)
-- [Native Structured Output in Spring AI - Guaranteed JSON Responses Every Time](https://www.youtube.com/watch?v=bQUqJnKqDhY)
 <!-- YOUTUBE:END -->
