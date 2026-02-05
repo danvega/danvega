@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo)
 - [I Tried OpenAI&#39;s New Codex Agent. Here are my First Impressions &lpar;It&#39;s Really Good&rpar;](https://www.youtube.com/watch?v=Q44TPEtNcNo)
 - [OpenAI Codex: First Look](https://www.youtube.com/watch?v=REfFlpSvhHc)
 - [Claude Code on the Go: 2 Ways to Fix Issues Without Your Laptop](https://www.youtube.com/watch?v=pbbWEce72xg)
 - [Claude Code Just Fixed MCP&#39;s Biggest Problem](https://www.youtube.com/watch?v=itS3f1Y52t0)
-- [Claude Code&#39;s Secret Weapon: Access Multiple Directories in One Session](https://www.youtube.com/watch?v=Ac0FMtVYKkA)
 <!-- YOUTUBE:END -->
