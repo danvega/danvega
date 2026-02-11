@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot RestClient.Builder Explained &lpar;Builder Pattern&rpar;](https://www.youtube.com/watch?v=aocKQ2-U3wU)
 - [Spring AI Prompt Caching: Stop Wasting Money on Repeated Tokens](https://www.youtube.com/watch?v=eYb7BKW4QcU)
 - [Spring REST Client with Service Discovery &lpar;Eureka&rpar;](https://www.youtube.com/watch?v=s9yyxyvYuq4)
 - [Claude Code Tasks: Stop Babysitting Your AI Agent](https://www.youtube.com/watch?v=NAWKFRaR0Sk)
 - [What is the Ralph Loop?](https://www.youtube.com/shorts/iEHsNdnP5EA)
-- [The Ralph Loop Explained: Automate AI Coding Tasks in Java](https://www.youtube.com/watch?v=CV97l0GkPHo)
 <!-- YOUTUBE:END -->
