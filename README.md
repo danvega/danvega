@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lazy Constants in Java 26: What You Need to Know](https://www.youtube.com/watch?v=VoB2voChQzA)
 - [Build a Deep Research Agent with Spring AI &amp; Browserbase](https://www.youtube.com/watch?v=_amdeuCM-aY)
 - [Spring Boot RestClient Error Handling](https://www.youtube.com/watch?v=MuYzEZk6-zI)
 - [JDK 26: Final Will Actually Mean Final Now](https://www.youtube.com/watch?v=j-y0m6j6TBc)
 - [Building a Terminal UI for Spring Initializr with Java](https://www.youtube.com/watch?v=J9C2MiQTIYs)
-- [Spring Boot RestClient.Builder Explained &lpar;Builder Pattern&rpar;](https://www.youtube.com/watch?v=aocKQ2-U3wU)
 <!-- YOUTUBE:END -->
