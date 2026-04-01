@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GraphQL for Java Developers: 04 - Data Fetchers](https://www.youtube.com/watch?v=WNrt8nHk1MI)
+- [GraphQL for Java Developers: 03 - The GraphQL Schema](https://www.youtube.com/watch?v=Lt8CtEugpqc)
+- [GraphQL for Java Developers: 02 - Creating the Data Layer](https://www.youtube.com/watch?v=WbFGGsUv9Ls)
+- [GraphQL for Java Developers: 01 - Why GraphQL](https://www.youtube.com/watch?v=xZSv67a9OYA)
 - [Build a Coding Agent Like Claude Code with Spring AI](https://www.youtube.com/watch?v=P8s65qu-LZI)
-- [Let AI Draw Your Diagrams with Excalidraw&#39;s MCP Server](https://www.youtube.com/watch?v=dbT5wN4XRGc)
-- [Lazy Constants in Java 26: What You Need to Know](https://www.youtube.com/watch?v=VoB2voChQzA)
-- [Build a Deep Research Agent with Spring AI &amp; Browserbase](https://www.youtube.com/watch?v=_amdeuCM-aY)
-- [Spring Boot RestClient Error Handling](https://www.youtube.com/watch?v=MuYzEZk6-zI)
 <!-- YOUTUBE:END -->
