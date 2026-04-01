@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GraphQL for Java Developers: 06 - N+1 Problem and Virtual Threads](https://www.youtube.com/watch?v=WQHhXf0uwWE)
+- [GraphQL for Java Developers: 05 - Unions](https://www.youtube.com/watch?v=zLXOXXU8uHI)
 - [GraphQL for Java Developers: 04 - Data Fetchers](https://www.youtube.com/watch?v=WNrt8nHk1MI)
 - [GraphQL for Java Developers: 03 - The GraphQL Schema](https://www.youtube.com/watch?v=Lt8CtEugpqc)
 - [GraphQL for Java Developers: 02 - Creating the Data Layer](https://www.youtube.com/watch?v=WbFGGsUv9Ls)
-- [GraphQL for Java Developers: 01 - Why GraphQL](https://www.youtube.com/watch?v=xZSv67a9OYA)
-- [Build a Coding Agent Like Claude Code with Spring AI](https://www.youtube.com/watch?v=P8s65qu-LZI)
 <!-- YOUTUBE:END -->
