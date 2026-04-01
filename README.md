@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo)
+- [GraphQL for Java Developers: 08 - Client Integration with HttpSyncGraphQlClient](https://www.youtube.com/watch?v=FIOxzyDl6FU)
+- [GraphQL for Java Developers: 07 - Data Integration &lpar;GraphQLRepository + AOT Repositories&rpar;](https://www.youtube.com/watch?v=QVkS0h26ugk)
+- [GraphQL for Java Developers: 09 - Observability](https://www.youtube.com/watch?v=k7lGRzdAc1I)
 - [GraphQL for Java Developers: 06 - N+1 Problem and Virtual Threads](https://www.youtube.com/watch?v=WQHhXf0uwWE)
-- [GraphQL for Java Developers: 05 - Unions](https://www.youtube.com/watch?v=zLXOXXU8uHI)
-- [GraphQL for Java Developers: 04 - Data Fetchers](https://www.youtube.com/watch?v=WNrt8nHk1MI)
-- [GraphQL for Java Developers: 03 - The GraphQL Schema](https://www.youtube.com/watch?v=Lt8CtEugpqc)
-- [GraphQL for Java Developers: 02 - Creating the Data Layer](https://www.youtube.com/watch?v=WbFGGsUv9Ls)
 <!-- YOUTUBE:END -->
