@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embabel MCP Servers and Tools: Supercharging Your Agentic Flows on the JVM](https://www.danvega.devhttps://www.danvega.dev/blog/2026/04/10/embabel-tools-mcp)
 - [Embabel First Look: Building Agentic Flows on the JVM](https://www.danvega.devhttps://www.danvega.dev/blog/2026/04/02/embabel-first-look)
 - [GraphQL for Java Developers](https://www.danvega.devhttps://www.danvega.dev/blog/2026/04/01/graphql-for-java-developers-course)
 - [Spring, Build Me a Coding Agent](https://www.danvega.devhttps://www.danvega.dev/blog/2026/03/31/sprig-build-me-a-coding-agent)
-- [Giving Your Spring AI Agents a Real Browser with the Browserbase Spring Boot Starter](https://www.danvega.devhttps://www.danvega.dev/blog/2026/03/25/browswerbase-spring-boot-starter)
-- [JEP 500: Prepare to Make Final Mean Final in JDK 26](https://www.danvega.devhttps://www.danvega.dev/blog/2026/03/20/jdk-26-final-means-final)<!-- BLOG-POST-LIST:END -->
+- [Giving Your Spring AI Agents a Real Browser with the Browserbase Spring Boot Starter](https://www.danvega.devhttps://www.danvega.dev/blog/2026/03/25/browswerbase-spring-boot-starter)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
