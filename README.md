@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig)
 - [Embabel Tools &amp; MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs)
 - [Building AI Agents in Java with Embabel &lpar;Getting Started&rpar;](https://www.youtube.com/watch?v=G5VDQCZu6t0)
 - [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo)
 - [GraphQL for Java Developers: 08 - Client Integration with HttpSyncGraphQlClient](https://www.youtube.com/watch?v=FIOxzyDl6FU)
-- [GraphQL for Java Developers: 07 - Data Integration &lpar;GraphQLRepository + AOT Repositories&rpar;](https://www.youtube.com/watch?v=QVkS0h26ugk)
 <!-- YOUTUBE:END -->
