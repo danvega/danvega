@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot + Kafka in 10 Minutes &lpar;Your First Message&rpar;](https://www.youtube.com/watch?v=5XW3f_39ipY)
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM)
 - [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig)
 - [Embabel Tools &amp; MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs)
 - [Building AI Agents in Java with Embabel &lpar;Getting Started&rpar;](https://www.youtube.com/watch?v=G5VDQCZu6t0)
-- [GraphQL for Java Developers: 10 - Course Conclusion and Next Steps](https://www.youtube.com/watch?v=-T841yn7Mgo)
 <!-- YOUTUBE:END -->
