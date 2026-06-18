@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Code Is Cheap. Software Is Not](https://www.youtube.com/shorts/pftGFD5CF_Q)
 - [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss)
 - [Spring Boot + Kafka in Minutes &lpar;Your First Message&rpar;](https://www.youtube.com/watch?v=5XW3f_39ipY)
 - [Events That Survive Crashes in Spring Modulith](https://www.youtube.com/watch?v=KLX9ulb2AfM)
 - [Introduction to Spring Modulith - Modular Monoliths in Spring Boot](https://www.youtube.com/watch?v=xHlDyKVyvig)
-- [Embabel Tools &amp; MCP Servers: Supercharge Your Java AI Agents](https://www.youtube.com/watch?v=2mGr7kdstJs)
 <!-- YOUTUBE:END -->
