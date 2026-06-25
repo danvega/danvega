@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring AI: ChatClient vs ChatModel](https://www.youtube.com/shorts/ysOLXabdSBU)
 - [Lazy JDBC Connections in Spring Boot 4.1 &lpar;Performance Win&rpar;](https://www.youtube.com/watch?v=lsaBN1U2EB8)
 - [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM)
 - [Code Is Cheap. Software Is Not](https://www.youtube.com/shorts/pftGFD5CF_Q)
 - [How to Externalize Events in Spring Modulith with Kafka](https://www.youtube.com/watch?v=8sJIWwc7Jss)
-- [Spring Boot + Kafka in Minutes &lpar;Your First Message&rpar;](https://www.youtube.com/watch?v=5XW3f_39ipY)
 <!-- YOUTUBE:END -->
