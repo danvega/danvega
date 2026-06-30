@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg)
 - [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc)
 - [Spring Boot 4.1: Block SSRF Attacks with InetAddressFilter](https://www.youtube.com/watch?v=PDbBG_GrcwU)
 - [Spring AI: ChatClient vs ChatModel](https://www.youtube.com/shorts/ysOLXabdSBU)
 - [Lazy JDBC Connections in Spring Boot 4.1 &lpar;Performance Win&rpar;](https://www.youtube.com/watch?v=lsaBN1U2EB8)
-- [Getting Started with Spring gRPC in Spring Boot 4.1](https://www.youtube.com/watch?v=MPHuBNqbYPM)
 <!-- YOUTUBE:END -->
