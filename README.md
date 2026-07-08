@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring AI 2.0: Custom Advisors for Tool &amp; Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc)
 - [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4)
 - [ChatClient vs ChatModel: Which Spring AI API Should You Use?](https://www.youtube.com/watch?v=IdIDI71sGZM)
 - [Spring AI + X&#39;s New MCP Servers](https://www.youtube.com/watch?v=j4chxGtqkY8)
 - [Spring Boot 4.1: Type-Safe Property Paths in Spring Data](https://www.youtube.com/watch?v=qBC-TrIzsPg)
-- [Spring Boot 4.1: The New @RedisListener Simplifies Everything](https://www.youtube.com/watch?v=lMbgBYlUtfc)
 <!-- YOUTUBE:END -->
