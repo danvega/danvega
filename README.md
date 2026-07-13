@@ -16,9 +16,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 <!-- BLOG-POST-LIST:START -->
 - [Spring AI Tool Search: Stop Wasting Tokens on Tools You Don't Need](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-tool-search)
 - [Building Custom Spring AI Advisors for Tool Logging and Token Tracking](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-custom-advisors-tool-logging-token-counter)
+- [UI.sh: Agent Skills That Actually Make AI-Generated UIs Look Good](https://www.danvega.devhttps://www.danvega.dev/blog/ui-dot-sh-agent-skills-for-building-beautiful-uis)
 - [ChatClient vs ChatModel: Which Spring AI API Should You Actually Use?](https://www.danvega.devhttps://www.danvega.dev/blog/chatclient-vs-chatmodel-spring-ai)
-- [X (Twitter) MCP Servers with Spring AI: Search Posts and Query Docs Programmatically](https://www.danvega.devhttps://www.danvega.dev/blog/x-twitter-mcp-servers-spring-ai)
-- [Type Safe Property Paths in Spring Boot 4.1](https://www.danvega.devhttps://www.danvega.dev/blog/type-safe-property-paths-spring-boot-4-1)<!-- BLOG-POST-LIST:END -->
+- [X (Twitter) MCP Servers with Spring AI: Search Posts and Query Docs Programmatically](https://www.danvega.devhttps://www.danvega.dev/blog/x-twitter-mcp-servers-spring-ai)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
