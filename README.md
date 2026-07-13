@@ -18,7 +18,7 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 - [Embabel First Look: Building Agentic Flows on the JVM](https://www.danvega.devhttps://www.danvega.dev/blog/embabel-first-look)
 - [GraphQL for Java Developers](https://www.danvega.devhttps://www.danvega.dev/blog/getting-started-with-graphql-for-java-developers)
 - [Spring, Build Me a Coding Agent](https://www.danvega.devhttps://www.danvega.dev/blog/spring-building-me-a-coding-agent)
-- [Giving Your Spring AI Agents a Real Browser with the Browserbase Spring Boot Starter](https://www.danvega.devhttps://www.danvega.dev/blog/browserbase-spring-boot-starter)<!-- BLOG-POST-LIST:END -->
+- [Getting Started with Error Handling in the RestClient](https://www.danvega.devhttps://www.danvega.dev/blog/rest-client-error-handling)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
