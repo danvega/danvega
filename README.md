@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Embabel MCP Servers and Tools: Supercharging Your Agentic Flows on the JVM](https://www.danvega.devhttps://www.danvega.dev/blog/embabel-mcp-servers-and-tools)
-- [Embabel First Look: Building Agentic Flows on the JVM](https://www.danvega.devhttps://www.danvega.dev/blog/embabel-first-look)
-- [GraphQL for Java Developers](https://www.danvega.devhttps://www.danvega.dev/blog/getting-started-with-graphql-for-java-developers)
-- [Spring, Build Me a Coding Agent](https://www.danvega.devhttps://www.danvega.dev/blog/spring-building-me-a-coding-agent)
-- [Getting Started with Error Handling in the RestClient](https://www.danvega.devhttps://www.danvega.dev/blog/rest-client-error-handling)<!-- BLOG-POST-LIST:END -->
+- [Spring AI Tool Search: Stop Wasting Tokens on Tools You Don't Need](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-tool-search)
+- [Building Custom Spring AI Advisors for Tool Logging and Token Tracking](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-custom-advisors-tool-logging-token-counter)
+- [ChatClient vs ChatModel: Which Spring AI API Should You Actually Use?](https://www.danvega.devhttps://www.danvega.dev/blog/chatclient-vs-chatmodel-spring-ai)
+- [X (Twitter) MCP Servers with Spring AI: Search Posts and Query Docs Programmatically](https://www.danvega.devhttps://www.danvega.dev/blog/x-twitter-mcp-servers-spring-ai)
+- [Type Safe Property Paths in Spring Boot 4.1](https://www.danvega.devhttps://www.danvega.dev/blog/type-safe-property-paths-spring-boot-4-1)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
