@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can You Use Java for AI? Why Java Is Better Positioned Than You Think](https://www.danvega.devhttps://www.danvega.dev/blog/can-you-use-java-for-ai)
 - [Spring Boot End of Life: Every 3.x Branch Is Now Unsupported](https://www.danvega.devhttps://www.danvega.dev/blog/spring-boot-end-of-life)
 - [How to Kill a Process Running on a Port (Windows, macOS & Linux)](https://www.danvega.devhttps://www.danvega.dev/blog/kill-process-on-port)
 - [Spring AI Tool Search: Stop Wasting Tokens on Tools You Don't Need](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-tool-search)
-- [Building Custom Spring AI Advisors for Tool Logging and Token Tracking](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-custom-advisors-tool-logging-token-counter)
-- [UI.sh: Agent Skills That Actually Make AI-Generated UIs Look Good](https://www.danvega.devhttps://www.danvega.dev/blog/ui-dot-sh-agent-skills-for-building-beautiful-uis)<!-- BLOG-POST-LIST:END -->
+- [Building Custom Spring AI Advisors for Tool Logging and Token Tracking](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-custom-advisors-tool-logging-token-counter)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
