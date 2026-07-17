@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY)
+- [Self Correcting Structured Output - Validating the Schema](https://www.youtube.com/shorts/odGuueLzKQQ)
+- [Self Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/shorts/WXrWlltKp5o)
 - [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY)
 - [Spring AI 2.0: Custom Advisors for Tool &amp; Token Logging](https://www.youtube.com/watch?v=WNJFR-_N9bc)
-- [UI.sh Tutorial: Agent Skills for Building Better UIs](https://www.youtube.com/watch?v=-B7uyMp54S4)
-- [ChatClient vs ChatModel: Which Spring AI API Should You Use?](https://www.youtube.com/watch?v=IdIDI71sGZM)
-- [Spring AI + X&#39;s New MCP Servers](https://www.youtube.com/watch?v=j4chxGtqkY8)
 <!-- YOUTUBE:END -->
