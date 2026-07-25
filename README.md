@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [See Your Tool Calls Live with Spring AI 2.0&#39;s ToolCallingAdvisor](https://www.youtube.com/shorts/0f-3FJNcKRo)
+- [Why LLMs Can&#39;t Answer This Without Tool Calls](https://www.youtube.com/shorts/6BfGOyZsAx8)
 - [Build Claude&#39;s &quot;Calling Tool...&quot; UI with Spring AI 2.0](https://www.youtube.com/watch?v=g6IhOsFKM7c)
 - [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY)
 - [Self Correcting Structured Output - Validating the Schema](https://www.youtube.com/shorts/odGuueLzKQQ)
-- [Self Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/shorts/WXrWlltKp5o)
-- [Spring AI 2.0 Tool Search: Cut Token Costs by 5x](https://www.youtube.com/watch?v=VG00DildlvY)
 <!-- YOUTUBE:END -->
