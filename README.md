@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What That docker-compose.yml Actually Does](https://www.youtube.com/shorts/rhDdWu_lsP0)
+- [READMEs Cost Me Weeks. Docker Compose Fixed It](https://www.youtube.com/shorts/POHghOLL5gc)
 - [Clone. Run. Done. What That docker-compose.yml in your Java Repo Actually Does](https://www.youtube.com/watch?v=0LNVXHKKJb8)
 - [See Your Tool Calls Live with Spring AI 2.0&#39;s ToolCallingAdvisor](https://www.youtube.com/shorts/0f-3FJNcKRo)
 - [Why LLMs Can&#39;t Answer This Without Tool Calls](https://www.youtube.com/shorts/6BfGOyZsAx8)
-- [Build Claude&#39;s &quot;Calling Tool...&quot; UI with Spring AI 2.0](https://www.youtube.com/watch?v=g6IhOsFKM7c)
-- [Self-Correcting Structured Output in Spring AI 2.0](https://www.youtube.com/watch?v=vxOeeNyOtZY)
 <!-- YOUTUBE:END -->
