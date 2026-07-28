@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI Guardrails: 4 Layers That Actually Hold](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-guardrails-safeguard-advisor)
 - [Docker Compose for Java Developers, Explained](https://www.danvega.devhttps://www.danvega.dev/blog/docker-compose-for-java-developers)
 - [Spring AI 2.0 Tool Calling: Build a Live Claude-Style UI](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-tool-calling-advisor-2-0)
 - [Embabel 1.0 Is Here: AI Agent Framework for Java Goes GA](https://www.danvega.devhttps://www.danvega.dev/blog/embabel-1-0-ga)
-- [My Content Creation Workflow: 10 Stages From Idea to Published](https://www.danvega.devhttps://www.danvega.dev/blog/content-creation-workflow)
-- [Self-Correcting Structured Output in Spring AI 2.0](https://www.danvega.devhttps://www.danvega.dev/blog/self-correcting-structured-output)<!-- BLOG-POST-LIST:END -->
+- [My Content Creation Workflow: 10 Stages From Idea to Published](https://www.danvega.devhttps://www.danvega.dev/blog/content-creation-workflow)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
