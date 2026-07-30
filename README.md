@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Watch an AI Agent Upgrade My Real Site &lpar;The Right Way&rpar;](https://www.youtube.com/watch?v=MYtia9xsTrQ)
 - [Redact PII Before It Hits the LLM with Spring AI](https://www.youtube.com/shorts/KUAaLF9tRKQ)
 - [This Spring AI Advisor Catches Secrets Before They Leak](https://www.youtube.com/shorts/u_ZHh5VOKik)
 - [Spring AI&#39;s Safeguard Advisor](https://www.youtube.com/shorts/QIO8lTKnTNE)
 - [4 Ways to Safeguard Data in Spring AI](https://www.youtube.com/shorts/wfrXLBGwAig)
-- [Build Real Guardrails for Your Spring AI App](https://www.youtube.com/watch?v=EZ6Uh1-8Ui4)
 <!-- YOUTUBE:END -->
