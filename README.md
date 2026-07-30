@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Prompt Engineering Is Dead](https://www.youtube.com/shorts/GzoKONlJsqc)
 - [Why You Shouldn&#39;t Use AI to Upgrade 3,000 Apps](https://www.youtube.com/shorts/vCT64Rt4gJI)
 - [Watch an AI Agent Upgrade My Real Site &lpar;The Right Way&rpar;](https://www.youtube.com/watch?v=MYtia9xsTrQ)
 - [Redact PII Before It Hits the LLM with Spring AI](https://www.youtube.com/shorts/KUAaLF9tRKQ)
 - [This Spring AI Advisor Catches Secrets Before They Leak](https://www.youtube.com/shorts/u_ZHh5VOKik)
-- [Spring AI&#39;s Safeguard Advisor](https://www.youtube.com/shorts/QIO8lTKnTNE)
 <!-- YOUTUBE:END -->
