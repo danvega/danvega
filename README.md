@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Made Exploiting Vulnerabilities Easy](https://www.youtube.com/shorts/dTXY1Pro9Oo)
+- [Scope, Scale, Stakes: How to Upgrade with AI](https://www.youtube.com/shorts/Zr7pO2XzWjU)
 - [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA)
 - [Why Prompt Engineering Is Dead](https://www.youtube.com/shorts/GzoKONlJsqc)
 - [Why You Shouldn&#39;t Use AI to Upgrade 3,000 Apps](https://www.youtube.com/shorts/vCT64Rt4gJI)
-- [Watch an AI Agent Upgrade My Real Site &lpar;The Right Way&rpar;](https://www.youtube.com/watch?v=MYtia9xsTrQ)
-- [Redact PII Before It Hits the LLM with Spring AI](https://www.youtube.com/shorts/KUAaLF9tRKQ)
 <!-- YOUTUBE:END -->
