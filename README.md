@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Code Is Cheap, Software Is Not](https://www.youtube.com/shorts/fYXDcvJVrAY)
 - [Trust What You Know, Verify What You Don&#39;t](https://www.youtube.com/shorts/GjO2Pyf_B1A)
 - [The AI Code Works, But It Wont Scale](https://www.youtube.com/shorts/42LTuIacA7s)
 - [AI Made Exploiting Vulnerabilities Easy](https://www.youtube.com/shorts/dTXY1Pro9Oo)
 - [Scope, Scale, Stakes: How to Upgrade with AI](https://www.youtube.com/shorts/Zr7pO2XzWjU)
-- [The AI Coding Trap Nobody Warns You About](https://www.youtube.com/watch?v=UuM2-nRsLuA)
 <!-- YOUTUBE:END -->
