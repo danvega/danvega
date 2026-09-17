@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI)
 - [I Ran ColdFusion Inside Spring Boot 4](https://www.youtube.com/watch?v=CLzEQ1Gtqy4)
 - [You&#39;re Not Behind on AI. You&#39;re On a Step.](https://www.youtube.com/shorts/LDGrfPVFTFQ)
 - [AI Autonomy Is About Absence, Not Scale](https://www.youtube.com/shorts/a_VwOFsF0C4)
 - [Running Parallel Agents Without Gates Is Just Step 1](https://www.youtube.com/shorts/l1aXuC6it-Y)
-- [The 5 Steps of AI Adoption: Which Step Are You On?](https://www.youtube.com/watch?v=g12mC2J11d0)
 <!-- YOUTUBE:END -->
