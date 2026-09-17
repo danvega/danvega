@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skills Aren&#39;t Just for Coding: I Publish My Podcast With Them](https://www.youtube.com/watch?v=9O-E7DAfYrE)
+- [What the Heck Is ColdFusion?](https://www.youtube.com/shorts/iRtKV-yEoz4)
+- [Migrate ColdFusion to Spring Boot Without Rewriting Your Templates](https://www.youtube.com/shorts/bg6ZqsZzXP0)
+- [Why I Fell in Love With ColdFusion](https://www.youtube.com/shorts/RLnm1sg0gQk)
 - [I Publish My Podcast with Claude Code and Skills](https://www.youtube.com/watch?v=q3Fk6ADuaSI)
-- [I Ran ColdFusion Inside Spring Boot 4](https://www.youtube.com/watch?v=CLzEQ1Gtqy4)
-- [You&#39;re Not Behind on AI. You&#39;re On a Step.](https://www.youtube.com/shorts/LDGrfPVFTFQ)
-- [AI Autonomy Is About Absence, Not Scale](https://www.youtube.com/shorts/a_VwOFsF0C4)
-- [Running Parallel Agents Without Gates Is Just Step 1](https://www.youtube.com/shorts/l1aXuC6it-Y)
 <!-- YOUTUBE:END -->
