@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jev in Java and Spring Boot &lpar;It&#39;s Not an LLM&rpar;](https://www.youtube.com/watch?v=K4rqR6hcsAo)
 - [Virtual Threads Aren&#39;t Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk)
 - [I Built the App That Runs My YouTube Channel With Claude Code](https://www.youtube.com/watch?v=9O-E7DAfYrE)
 - [What the Heck Is ColdFusion?](https://www.youtube.com/shorts/iRtKV-yEoz4)
 - [Migrate ColdFusion to Spring Boot Without Rewriting Your Templates](https://www.youtube.com/shorts/bg6ZqsZzXP0)
-- [Why I Fell in Love With ColdFusion](https://www.youtube.com/shorts/RLnm1sg0gQk)
 <!-- YOUTUBE:END -->
