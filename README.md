@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ColdFusion Inside Spring Boot (One Property)](https://www.danvega.devhttps://www.danvega.dev/blog/coldfusion-inside-spring-boot-boxlang-starter)
-- [The 5 Steps of AI Adoption: Which One Are You On?](https://www.danvega.devhttps://www.danvega.dev/blog/five-steps-of-ai-adoption)
-- [Can You Trust AI-Generated Code?](https://www.danvega.devhttps://www.danvega.dev/blog/can-you-trust-ai-generated-code)
-- [Upgrading Dependencies with AI: A Practical Guide](https://www.danvega.devhttps://www.danvega.dev/blog/upgrading-dependencies-with-ai)
-- [Spring AI: Build Real Guardrails that hold](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-guardrails-safeguard-advisor)<!-- BLOG-POST-LIST:END -->
+- [Claude Code Skills for Podcast Automation](https://www.danvega.devhttps://www.danvega.dev/blog/claude-code-skills-not-just-for-coding)
+- [Java Structured Concurrency in JDK 27: A Practical Example](https://www.danvega.devhttps://www.danvega.dev/blog/java-structured-concurrency-jdk-27)
+- [Getting Started with Jev in Java and Spring Boot](https://www.danvega.devhttps://www.danvega.dev/blog/getting-started-jev-java-spring-boot)
+- [I Built My Own Content OS With Claude Code](https://www.danvega.devhttps://www.danvega.dev/blog/content-os-claude-code-spring-boot)
+- [ColdFusion Inside Spring Boot (One Property)](https://www.danvega.devhttps://www.danvega.dev/blog/coldfusion-inside-spring-boot-boxlang-starter)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
