@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Project Loom Explained in 3 JEPs](https://www.youtube.com/shorts/5k_uxiFPK5Y)
 - [AI Anxiety? I Just Get to Build](https://www.youtube.com/shorts/-CjMfUK1FuA)
 - [The App You Never Had Time To Build? Build It Now](https://www.youtube.com/shorts/Pnx2ZJ8ZXpI)
 - [My Coding Confession After All These Years](https://www.youtube.com/shorts/0z7Gzj0Nb3U)
 - [Jev in Java and Spring Boot &lpar;It&#39;s Not an LLM&rpar;](https://www.youtube.com/watch?v=K4rqR6hcsAo)
-- [Virtual Threads Aren&#39;t Enough: Structured Concurrency in Java 27](https://www.youtube.com/watch?v=Nl-a4ukWodk)
 <!-- YOUTUBE:END -->
