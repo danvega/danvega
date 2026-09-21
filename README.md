@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Spring Boot 4 Starters Actually Work &lpar;I Built One for Jev&rpar;](https://www.youtube.com/watch?v=fq_nYo4BnrY)
+- [LLM vs Jev: 8.5 seconds or 0.1 seconds?](https://www.youtube.com/shorts/PW8UuEYSZAY)
+- [Using Jev to Triage a Flood of YouTube Comments](https://www.youtube.com/shorts/Wt8Laiffuss)
 - [Is Jev Just Hype? Here&#39;s the Honest Take](https://www.youtube.com/shorts/AsoXcCx7EIw)
 - [No Java SDK? No Problem. Just POST to the Endpoint](https://www.youtube.com/shorts/NKV83OhTkY8)
-- [Want to Learn a Java Feature? Read the JEP](https://www.youtube.com/shorts/3hdOQ5W6Z4k)
-- [You Can Do Structured Concurrency in a Spring MVC App](https://www.youtube.com/shorts/0iA2lu5ztto)
-- [What&#39;s New in JDK 27: A Quick Feature Tour](https://www.youtube.com/shorts/pjc2zDMg8Q8)
 <!-- YOUTUBE:END -->
