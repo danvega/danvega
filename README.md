@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [No Java SDK? No Problem. Just POST to the Endpoint](https://www.youtube.com/shorts/NKV83OhTkY8)
 - [Want to Learn a Java Feature? Read the JEP](https://www.youtube.com/shorts/3hdOQ5W6Z4k)
 - [You Can Do Structured Concurrency in a Spring MVC App](https://www.youtube.com/shorts/0iA2lu5ztto)
 - [What&#39;s New in JDK 27: A Quick Feature Tour](https://www.youtube.com/shorts/pjc2zDMg8Q8)
 - [Project Loom Explained in 3 JEPs](https://www.youtube.com/shorts/5k_uxiFPK5Y)
-- [AI Anxiety? I Just Get to Build](https://www.youtube.com/shorts/-CjMfUK1FuA)
 <!-- YOUTUBE:END -->
