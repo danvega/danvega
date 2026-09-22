@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring AI TypeSafe Is Here: Build a Model Router From Scratch](https://www.youtube.com/watch?v=_5V6sJxRgqk)
+- [Feel Behind on AI Coding Agents? Start Here](https://www.youtube.com/watch?v=BiKxFmirPpw)
 - [It&#39;s Not an LLM, So What Does It Do? 3 Real Apps I built with Jev](https://www.youtube.com/watch?v=vMpPDJ3bwXI)
 - [How Spring Boot 4 Starters Actually Work &lpar;I Built One for Jev&rpar;](https://www.youtube.com/watch?v=fq_nYo4BnrY)
 - [LLM vs Jev: 8.5 seconds or 0.1 seconds?](https://www.youtube.com/shorts/PW8UuEYSZAY)
-- [Using Jev to Triage a Flood of YouTube Comments](https://www.youtube.com/shorts/Wt8Laiffuss)
-- [Is Jev Just Hype? Here&#39;s the Honest Take](https://www.youtube.com/shorts/AsoXcCx7EIw)
 <!-- YOUTUBE:END -->
