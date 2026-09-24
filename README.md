@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot 3 to 4 Migration: A Real App, Migrated Live](https://www.youtube.com/watch?v=HiPkoGTeNJc)
 - [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w)
 - [What Is a Spring Boot Starter, Really?](https://www.youtube.com/shorts/WL10SUkQCEs)
 - [How to Spot an Official Spring Boot Starter vs Community](https://www.youtube.com/shorts/S93W-r5I1io)
 - [No Java SDK? I Built a Spring Boot Starter Instead](https://www.youtube.com/shorts/s5sRnjW7-G8)
-- [An AI Editor That Catches AI-Sounding Writing](https://www.youtube.com/shorts/QUljNPN7KLo)
 <!-- YOUTUBE:END -->
