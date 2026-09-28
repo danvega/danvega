@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spec-Driven Development for Solo Developers: My Plan](https://www.danvega.devhttps://www.danvega.dev/blog/spec-driven-development-solo-developers)
 - [Claude Code Skills for Podcast Automation](https://www.danvega.devhttps://www.danvega.dev/blog/claude-code-skills-not-just-for-coding)
 - [Java Structured Concurrency in JDK 27: A Practical Example](https://www.danvega.devhttps://www.danvega.dev/blog/java-structured-concurrency-jdk-27)
 - [Getting Started with Jev in Java and Spring Boot](https://www.danvega.devhttps://www.danvega.dev/blog/getting-started-jev-java-spring-boot)
-- [I Built My Own Content OS With Claude Code](https://www.danvega.devhttps://www.danvega.dev/blog/content-os-claude-code-spring-boot)
-- [ColdFusion Inside Spring Boot (One Property)](https://www.danvega.devhttps://www.danvega.dev/blog/coldfusion-inside-spring-boot-boxlang-starter)<!-- BLOG-POST-LIST:END -->
+- [I Built My Own Content OS With Claude Code](https://www.danvega.devhttps://www.danvega.dev/blog/content-os-claude-code-spring-boot)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
