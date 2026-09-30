@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Boot 3 Support Ended. Is Your App Vulnerable?](https://www.youtube.com/shorts/bcD4lbmduzs)
 - [Vibe Coding vs Spec-Driven Development: The Solo Dev Middle Ground](https://www.youtube.com/shorts/1xyHQj8pwwo)
 - [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w)
 - [Spring Boot 3 to 4 Migration: A Real App, Migrated Live](https://www.youtube.com/watch?v=HiPkoGTeNJc)
 - [Spec-Driven Development for Solo Developers: The Plan I Use](https://www.youtube.com/watch?v=bHJZiM2XM-w)
-- [What Is a Spring Boot Starter, Really?](https://www.youtube.com/shorts/WL10SUkQCEs)
 <!-- YOUTUBE:END -->
