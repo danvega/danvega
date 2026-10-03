@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I Replaced Spec-Driven Docs With One Markdown File](https://www.youtube.com/shorts/9HjAVbVHdUc)
 - [Spring Boot 4 Breaks Null Into Int &lpar;Jackson 3 Default&rpar;](https://www.youtube.com/shorts/V9g9DktzAl0)
 - [Spring Boot 4: Why Flyway Silently Never Runs](https://www.youtube.com/shorts/G4oiGPFD5iU)
 - [Spring Boot 3 Support Ended. Is Your App Vulnerable?](https://www.youtube.com/shorts/bcD4lbmduzs)
 - [Vibe Coding vs Spec-Driven Development: The Solo Dev Middle Ground](https://www.youtube.com/shorts/1xyHQj8pwwo)
-- [Spring Boot 4 Crash Course: VegaCon 2027](https://www.youtube.com/watch?v=eT6KYuoEj4w)
 <!-- YOUTUBE:END -->
