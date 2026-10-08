@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Route AI Requests to the Right Model with Spring AI](https://www.youtube.com/shorts/pWngU8KiTiU)
 - [My Favorite Spring AI Feature: The Abstraction Layer](https://www.youtube.com/shorts/M41HG7QXMyY)
 - [Skills Aren&#39;t Just for Coding: Use Them for Your Workflow](https://www.youtube.com/shorts/xe_6Tw1lLRg)
 - [Stop Letting Your AI Coding Tool Assume Your Stack](https://www.youtube.com/shorts/jwEypMhHvfo)
 - [Your AI Skills Get Better With a Retro After Every Build](https://www.youtube.com/shorts/9rqZqzkhfFI)
-- [Why I Replaced Spec-Driven Docs With One Markdown File](https://www.youtube.com/shorts/9HjAVbVHdUc)
 <!-- YOUTUBE:END -->
