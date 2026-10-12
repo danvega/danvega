@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You Pay for Tokens, Not Words](https://www.youtube.com/shorts/aNCuSGO7VXA)
 - [Context Rot Is Real: 18 Models Got Worse](https://www.youtube.com/shorts/mnYp7HQwDOU)
 - [What Actually Makes Something an AI Agent](https://www.youtube.com/shorts/phvYrrAKJsI)
 - [The Spring AI Use Case You Should Adopt: Model Routing](https://www.youtube.com/shorts/bMZ7KsO5NBM)
 - [Route AI Requests to the Right Model with Spring AI](https://www.youtube.com/shorts/pWngU8KiTiU)
-- [My Favorite Spring AI Feature: The Abstraction Layer](https://www.youtube.com/shorts/M41HG7QXMyY)
 <!-- YOUTUBE:END -->
