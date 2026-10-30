@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Short Term vs Long Term Memory in Spring AI](https://www.youtube.com/watch?v=cai0knehSXM)
 - [Java Ships Built-In JSON &lpar;JDK 28&rpar;](https://www.youtube.com/watch?v=kdqJD94Cpos)
 - [You Pay for Tokens, Not Words](https://www.youtube.com/shorts/aNCuSGO7VXA)
 - [Context Rot Is Real: 18 Models Got Worse](https://www.youtube.com/shorts/mnYp7HQwDOU)
 - [What Actually Makes Something an AI Agent](https://www.youtube.com/shorts/phvYrrAKJsI)
-- [The Spring AI Use Case You Should Adopt: Model Routing](https://www.youtube.com/shorts/bMZ7KsO5NBM)
 <!-- YOUTUBE:END -->
