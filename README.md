@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring AI 2.1: Tool calling breaks on Chat Completions, one property fixes it &lpar;Responses API&rpar;](https://www.youtube.com/watch?v=70YMovBXBnw)
 - [Short Term vs Long Term Memory in Spring AI](https://www.youtube.com/watch?v=cai0knehSXM)
 - [Java Ships Built-In JSON &lpar;JDK 28&rpar;](https://www.youtube.com/watch?v=kdqJD94Cpos)
 - [You Pay for Tokens, Not Words](https://www.youtube.com/shorts/aNCuSGO7VXA)
 - [Context Rot Is Real: 18 Models Got Worse](https://www.youtube.com/shorts/mnYp7HQwDOU)
-- [What Actually Makes Something an AI Agent](https://www.youtube.com/shorts/phvYrrAKJsI)
 <!-- YOUTUBE:END -->
