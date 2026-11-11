@@ -14,11 +14,11 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Mac and iPhone Planner With a Built-In MCP Server](https://www.danvega.devhttps://www.danvega.dev/blog/mac-iphone-planner-built-in-mcp-server)
 - [Spring Boot 3 to 4 Migration: Fixing Every Break](https://www.danvega.devhttps://www.danvega.dev/blog/spring-boot-3-to-4-migration)
 - [Spec-Driven Development for Solo Developers: My Plan](https://www.danvega.devhttps://www.danvega.dev/blog/spec-driven-development-solo-developers)
 - [Spring AI TypeSafe: Build a Model Router From Scratch](https://www.danvega.devhttps://www.danvega.dev/blog/spring-ai-typesafe-model-router)
-- [Jev Spring Boot Starter: One Dependency, Done](https://www.danvega.devhttps://www.danvega.dev/blog/jev-spring-boot-starter)
-- [Claude Code Skills for Podcast Automation](https://www.danvega.devhttps://www.danvega.dev/blog/claude-code-skills-not-just-for-coding)<!-- BLOG-POST-LIST:END -->
+- [Jev Spring Boot Starter: One Dependency, Done](https://www.danvega.devhttps://www.danvega.dev/blog/jev-spring-boot-starter)<!-- BLOG-POST-LIST:END -->
 
 ### 🖥 Latest YouTube Videos
 
