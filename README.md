@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Which MCP Transport Should You Pick? &lpar;Not SSE&rpar;](https://www.youtube.com/shorts/CVXs2DMn--8)
+- [I Added a To-Do Just by Talking to Claude](https://www.youtube.com/shorts/SXajKvpuiY4)
 - [APIs Are for Machines. MCP Is for Agents.](https://www.youtube.com/shorts/btMnDhPDxfo)
 - [Every App Should Have an MCP Server &lpar;How to in Spring AI&rpar;](https://www.youtube.com/watch?v=Qmq0z5vYQFc)
 - [Spring AI 2.1: Tool calling breaks on Chat Completions, one property fixes it &lpar;Responses API&rpar;](https://www.youtube.com/watch?v=70YMovBXBnw)
-- [Short Term vs Long Term Memory in Spring AI](https://www.youtube.com/watch?v=cai0knehSXM)
-- [Java Ships Built-In JSON &lpar;JDK 28&rpar;](https://www.youtube.com/watch?v=kdqJD94Cpos)
 <!-- YOUTUBE:END -->
