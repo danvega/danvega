@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add a Blog to Your Spring Boot App &lpar;No WordPress Needed&rpar;](https://www.youtube.com/watch?v=hbBeKGWt_5w)
 - [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg)
 - [Which MCP Transport Should You Pick? &lpar;Not SSE&rpar;](https://www.youtube.com/shorts/CVXs2DMn--8)
 - [I Added a To-Do Just by Talking to Claude](https://www.youtube.com/shorts/SXajKvpuiY4)
 - [APIs Are for Machines. MCP Is for Agents.](https://www.youtube.com/shorts/btMnDhPDxfo)
-- [Every App Should Have an MCP Server &lpar;How to in Spring AI&rpar;](https://www.youtube.com/watch?v=Qmq0z5vYQFc)
 <!-- YOUTUBE:END -->
