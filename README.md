@@ -23,9 +23,9 @@ I’m a Husband, Father, [Spring Developer Advocate](https://tanzu.vmware.com/de
 ### 🖥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RestTemplate Is Deprecated. Here&#39;s How to Upgrade Your App &lpar;Spring Boot 4.2&rpar;](https://www.youtube.com/watch?v=gh7i3FKmubk)
 - [Spring AI 2.1 Decision Models: Stop Parsing AI Text](https://www.youtube.com/watch?v=iiwzX-70o9I)
 - [AGENTS.md Is the Ask. Not the Check.](https://www.youtube.com/watch?v=meQlaQiM6jY)
 - [Add a Blog to Your Spring Boot App &lpar;No WordPress Needed&rpar;](https://www.youtube.com/watch?v=hbBeKGWt_5w)
 - [Can MCP tools use Spring HTTP interfaces?](https://www.youtube.com/watch?v=tp2ILqd2XXg)
-- [Which MCP Transport Should You Pick? &lpar;Not SSE&rpar;](https://www.youtube.com/shorts/CVXs2DMn--8)
 <!-- YOUTUBE:END -->
